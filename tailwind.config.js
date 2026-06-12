@@ -1,0 +1,33 @@
+/** @type {import('tailwindcss').Config} */
+module.exports = {
+  content: ['./app/**/*.{js,jsx,ts,tsx}', './components/**/*.{js,jsx,ts,tsx}'],
+  presets: [require('nativewind/preset')],
+  theme: {
+    extend: {
+      colors: {
+        amber: {
+          50:  '#fffbeb',
+          100: '#fef3c7',
+          200: '#fde68a',
+          300: '#fcd34d',
+          400: '#fbbf24',
+          500: '#f59e0b',
+          600: '#d97706',
+          700: '#b45309',
+          800: '#92400e',
+          900: '#78350f',
+        },
+        brand: {
+          amber:  '#f59e0b',
+          orange: '#ea580c',
+          dark:   '#0a0704',
+        },
+      },
+      fontFamily: {
+        sans:  ['DMSans_400Regular', 'DMSans_500Medium', 'DMSans_700Bold'],
+        serif: ['CormorantGaramond_600SemiBold', 'CormorantGaramond_600SemiBold_Italic'],
+      },
+    },
+  },
+  plugins: [],
+};

@@ -1,0 +1,1888 @@
+﻿node.exe : npm verbose cli C:\Program Files\nodejs\node.exe C:\Program 
+Files\nodejs\node_modules\npm\bin\npm-cli.js
+At line:1 char:1
++ & "C:\Program Files\nodejs/node.exe" "C:\Program Files\nodejs/node_mo ...
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : NotSpecified: (npm verbose cli...\bin\npm-cli.js:String)  
+   [], RemoteException
+    + FullyQualifiedErrorId : NativeCommandError
+ 
+npm info using npm@10.9.3
+npm info using node@v22.19.0
+npm verbose title npm install react-native@0.81.5
+npm verbose argv "install" "react-native@0.81.5" "--legacy-peer-deps" "--loglevel" 
+"verbose"
+npm verbose logfile logs-max:10 dir:C:\Users\pc 
+gold\AppData\Local\npm-cache\_logs\2026-03-04T20_00_44_907Z-
+npm verbose logfile C:\Users\pc 
+gold\AppData\Local\npm-cache\_logs\2026-03-04T20_00_44_907Z-debug-0.log
+npm http fetch GET 200 https://registry.npmjs.org/expo-blur 657ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/expo-build-properties 457ms (cache 
+revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/expo-font 147ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/expo-haptics 295ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/expo-image 150ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/expo-linear-gradient 136ms (cache 
+revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/expo-linking 149ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/expo-router 155ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/expo-status-bar 155ms (cache 
+revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/react 180ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/react-native 225ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/react-native-gesture-handler 125ms 
+(cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/react-native-reanimated 390ms (cache 
+revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/react-native-safe-area-context 118ms 
+(cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/react-native-screens 158ms (cache 
+revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/react-native-svg 125ms (cache 
+revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@types%2freact 154ms (cache 
+revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/vaul 134ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/server-only 128ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/semver 362ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/client-only 382ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/shallowequal 150ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/react-fast-compare 140ms (cache 
+revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@expo%2fmetro-runtime 163ms (cache 
+revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@radix-ui%2freact-slot 146ms (cache 
+revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/react-native-is-edge-to-edge 134ms 
+(cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@react-navigation%2fnative-stack 
+142ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@radix-ui%2freact-tabs 217ms (cache 
+revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/glob 179ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/react-devtools-core 143ms (cache 
+revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/scheduler 195ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@react-native%2fjs-polyfills 208ms 
+(cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@react-native%2fgradle-plugin 301ms 
+(cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@react-native%2fvirtualized-lists 
+180ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@react-native%2fassets-registry 306ms 
+(cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@react-native%2fcommunity-cli-plugin 
+150ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@radix-ui%2freact-compose-refs 187ms 
+(cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@radix-ui%2freact-id 235ms (cache 
+revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@radix-ui%2freact-context 185ms 
+(cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@radix-ui%2freact-presence 156ms 
+(cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@radix-ui%2fprimitive 497ms (cache 
+revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@radix-ui%2freact-direction 174ms 
+(cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@radix-ui%2freact-roving-focus 475ms 
+(cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@radix-ui%2freact-dialog 179ms (cache 
+revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@radix-ui%2freact-primitive 796ms 
+(cache revalidated)
+npm http fetch GET 200 
+https://registry.npmjs.org/@radix-ui%2freact-use-controllable-state 800ms (cache 
+revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@radix-ui%2freact-use-layout-effect 
+168ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@radix-ui%2freact-use-callback-ref 
+183ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@radix-ui%2freact-use-layout-effect 
+488ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@radix-ui%2freact-use-effect-event 
+148ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@radix-ui%2freact-collection 616ms 
+(cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/minimatch 187ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/shell-quote 203ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/aria-hidden 123ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@radix-ui%2freact-portal 152ms (cache 
+revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/react-remove-scroll 179ms (cache 
+revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@radix-ui%2freact-focus-scope 171ms 
+(cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@radix-ui%2freact-dismissable-layer 
+161ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@radix-ui%2freact-focus-guards 465ms 
+(cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/react-remove-scroll-bar 124ms (cache 
+revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/tslib 130ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/@radix-ui%2freact-use-escape-keydown 
+164ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/use-sidecar 124ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/use-callback-ref 167ms (cache 
+revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/react-style-singleton 453ms (cache 
+revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/get-nonce 135ms (cache revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/detect-node-es 164ms (cache 
+revalidated)
+npm http fetch GET 200 https://registry.npmjs.org/brace-expansion 148ms (cache 
+revalidated)
+npm verbose reify failed optional dependency D:\maroctrip-mobile\node_modules\react-nati
+ve-css-interop\node_modules\lightningcss-linux-x64-musl
+npm verbose reify failed optional dependency D:\maroctrip-mobile\node_modules\react-nati
+ve-css-interop\node_modules\lightningcss-linux-x64-gnu
+npm verbose reify failed optional dependency D:\maroctrip-mobile\node_modules\react-nati
+ve-css-interop\node_modules\lightningcss-linux-arm64-musl
+npm verbose reify failed optional dependency D:\maroctrip-mobile\node_modules\react-nati
+ve-css-interop\node_modules\lightningcss-linux-arm64-gnu
+npm verbose reify failed optional dependency D:\maroctrip-mobile\node_modules\react-nati
+ve-css-interop\node_modules\lightningcss-linux-arm-gnueabihf
+npm verbose reify failed optional dependency D:\maroctrip-mobile\node_modules\react-nati
+ve-css-interop\node_modules\lightningcss-darwin-x64
+npm verbose reify failed optional dependency D:\maroctrip-mobile\node_modules\react-nati
+ve-css-interop\node_modules\lightningcss-darwin-arm64
+npm verbose reify failed optional dependency 
+D:\maroctrip-mobile\node_modules\lightningcss-win32-arm64-msvc
+npm verbose reify failed optional dependency 
+D:\maroctrip-mobile\node_modules\lightningcss-linux-x64-musl
+npm verbose reify failed optional dependency 
+D:\maroctrip-mobile\node_modules\lightningcss-linux-x64-gnu
+npm verbose reify failed optional dependency 
+D:\maroctrip-mobile\node_modules\lightningcss-linux-arm64-musl
+npm verbose reify failed optional dependency 
+D:\maroctrip-mobile\node_modules\lightningcss-linux-arm64-gnu
+npm verbose reify failed optional dependency 
+D:\maroctrip-mobile\node_modules\lightningcss-linux-arm-gnueabihf
+npm verbose reify failed optional dependency 
+D:\maroctrip-mobile\node_modules\lightningcss-freebsd-x64
+npm verbose reify failed optional dependency 
+D:\maroctrip-mobile\node_modules\lightningcss-darwin-x64
+npm verbose reify failed optional dependency 
+D:\maroctrip-mobile\node_modules\lightningcss-darwin-arm64
+npm verbose reify failed optional dependency 
+D:\maroctrip-mobile\node_modules\lightningcss-android-arm64
+npm verbose reify failed optional dependency 
+D:\maroctrip-mobile\node_modules\lightningcss\node_modules\lightningcss-win32-arm64-msvc
+npm verbose reify failed optional dependency 
+D:\maroctrip-mobile\node_modules\lightningcss\node_modules\lightningcss-freebsd-x64
+npm verbose reify failed optional dependency D:\maroctrip-mobile\node_modules\fsevents
+npm http cache 
+use-sidecar@https://registry.npmjs.org/use-sidecar/-/use-sidecar-1.1.3.tgz 0ms (cache 
+hit)
+npm http cache use-callback-ref@https://registry.npmjs.org/use-callback-ref/-/use-callba
+ck-ref-1.3.3.tgz 0ms (cache hit)
+npm http cache 
+detect-node-es@https://registry.npmjs.org/detect-node-es/-/detect-node-es-1.1.0.tgz 0ms 
+(cache hit)
+npm http cache get-nonce@https://registry.npmjs.org/get-nonce/-/get-nonce-1.0.1.tgz 0ms 
+(cache hit)
+npm http cache tslib@https://registry.npmjs.org/tslib/-/tslib-2.8.1.tgz 0ms (cache hit)
+npm http cache react-remove-scroll-bar@https://registry.npmjs.org/react-remove-scroll-ba
+r/-/react-remove-scroll-bar-2.3.8.tgz 0ms (cache hit)
+npm http cache react-style-singleton@https://registry.npmjs.org/react-style-singleton/-/
+react-style-singleton-2.2.3.tgz 0ms (cache hit)
+npm http cache @radix-ui/react-use-escape-keydown@https://registry.npmjs.org/@radix-ui/r
+eact-use-escape-keydown/-/react-use-escape-keydown-1.1.1.tgz 0ms (cache hit)
+npm http cache react-remove-scroll@https://registry.npmjs.org/react-remove-scroll/-/reac
+t-remove-scroll-2.7.2.tgz 0ms (cache hit)
+npm http cache 
+aria-hidden@https://registry.npmjs.org/aria-hidden/-/aria-hidden-1.2.6.tgz 0ms (cache 
+hit)
+npm http cache @radix-ui/react-focus-scope@https://registry.npmjs.org/@radix-ui/react-fo
+cus-scope/-/react-focus-scope-1.1.7.tgz 0ms (cache hit)
+npm http cache @radix-ui/react-portal@https://registry.npmjs.org/@radix-ui/react-portal/
+-/react-portal-1.1.9.tgz 0ms (cache hit)
+npm http cache @radix-ui/react-focus-guards@https://registry.npmjs.org/@radix-ui/react-f
+ocus-guards/-/react-focus-guards-1.1.3.tgz 0ms (cache hit)
+npm http cache @radix-ui/react-dismissable-layer@https://registry.npmjs.org/@radix-ui/re
+act-dismissable-layer/-/react-dismissable-layer-1.1.11.tgz 0ms (cache hit)
+npm http cache @radix-ui/react-dialog@https://registry.npmjs.org/@radix-ui/react-dialog/
+-/react-dialog-1.1.15.tgz 0ms (cache hit)
+npm http cache 
+shell-quote@https://registry.npmjs.org/shell-quote/-/shell-quote-1.8.3.tgz 0ms (cache 
+hit)
+npm http cache scheduler@https://registry.npmjs.org/scheduler/-/scheduler-0.26.0.tgz 
+0ms (cache hit)
+npm http cache react-devtools-core@https://registry.npmjs.org/react-devtools-core/-/reac
+t-devtools-core-6.1.5.tgz 0ms (cache hit)
+npm http cache @react-native/virtualized-lists@https://registry.npmjs.org/@react-native/
+virtualized-lists/-/virtualized-lists-0.81.5.tgz 0ms (cache hit)
+npm http cache @react-native/js-polyfills@https://registry.npmjs.org/@react-native/js-po
+lyfills/-/js-polyfills-0.81.5.tgz 0ms (cache hit)
+npm http cache @react-native/gradle-plugin@https://registry.npmjs.org/@react-native/grad
+le-plugin/-/gradle-plugin-0.81.5.tgz 0ms (cache hit)
+npm http cache @react-native/community-cli-plugin@https://registry.npmjs.org/@react-nati
+ve/community-cli-plugin/-/community-cli-plugin-0.81.5.tgz 0ms (cache hit)
+npm http cache @react-native/assets-registry@https://registry.npmjs.org/@react-native/as
+sets-registry/-/assets-registry-0.81.5.tgz 0ms (cache hit)
+npm http cache @radix-ui/react-use-effect-event@https://registry.npmjs.org/@radix-ui/rea
+ct-use-effect-event/-/react-use-effect-event-0.0.2.tgz 0ms (cache hit)
+npm http cache @radix-ui/react-use-callback-ref@https://registry.npmjs.org/@radix-ui/rea
+ct-use-callback-ref/-/react-use-callback-ref-1.1.1.tgz 0ms (cache hit)
+npm http cache @radix-ui/react-collection@https://registry.npmjs.org/@radix-ui/react-col
+lection/-/react-collection-1.1.7.tgz 0ms (cache hit)
+npm http cache @radix-ui/react-use-layout-effect@https://registry.npmjs.org/@radix-ui/re
+act-use-layout-effect/-/react-use-layout-effect-1.1.1.tgz 0ms (cache hit)
+npm http cache @radix-ui/react-use-controllable-state@https://registry.npmjs.org/@radix-
+ui/react-use-controllable-state/-/react-use-controllable-state-1.2.2.tgz 0ms (cache hit)
+npm http cache @radix-ui/react-roving-focus@https://registry.npmjs.org/@radix-ui/react-r
+oving-focus/-/react-roving-focus-1.1.11.tgz 0ms (cache hit)
+npm http cache @radix-ui/react-primitive@https://registry.npmjs.org/@radix-ui/react-prim
+itive/-/react-primitive-2.1.3.tgz 0ms (cache hit)
+npm http cache @radix-ui/react-presence@https://registry.npmjs.org/@radix-ui/react-prese
+nce/-/react-presence-1.1.5.tgz 0ms (cache hit)
+npm http cache 
+@radix-ui/react-id@https://registry.npmjs.org/@radix-ui/react-id/-/react-id-1.1.1.tgz 
+0ms (cache hit)
+npm http cache @radix-ui/react-direction@https://registry.npmjs.org/@radix-ui/react-dire
+ction/-/react-direction-1.1.1.tgz 0ms (cache hit)
+npm http cache @radix-ui/react-context@https://registry.npmjs.org/@radix-ui/react-contex
+t/-/react-context-1.1.2.tgz 1ms (cache hit)
+npm http cache @radix-ui/primitive@https://registry.npmjs.org/@radix-ui/primitive/-/prim
+itive-1.1.3.tgz 0ms (cache hit)
+npm http cache @radix-ui/react-compose-refs@https://registry.npmjs.org/@radix-ui/react-c
+ompose-refs/-/react-compose-refs-1.1.2.tgz 0ms (cache hit)
+npm http cache 
+shallowequal@https://registry.npmjs.org/shallowequal/-/shallowequal-1.1.0.tgz 0ms 
+(cache hit)
+npm http cache vaul@https://registry.npmjs.org/vaul/-/vaul-1.1.2.tgz 0ms (cache hit)
+npm http cache 
+server-only@https://registry.npmjs.org/server-only/-/server-only-0.0.1.tgz 0ms (cache 
+hit)
+npm http cache react-native-is-edge-to-edge@https://registry.npmjs.org/react-native-is-e
+dge-to-edge/-/react-native-is-edge-to-edge-1.3.1.tgz 0ms (cache hit)
+npm http cache react-fast-compare@https://registry.npmjs.org/react-fast-compare/-/react-
+fast-compare-3.2.2.tgz 0ms (cache hit)
+npm http cache 
+client-only@https://registry.npmjs.org/client-only/-/client-only-0.0.1.tgz 0ms (cache 
+hit)
+npm http cache @radix-ui/react-tabs@https://registry.npmjs.org/@radix-ui/react-tabs/-/re
+act-tabs-1.1.13.tgz 0ms (cache hit)
+npm http cache @radix-ui/react-slot@https://registry.npmjs.org/@radix-ui/react-slot/-/re
+act-slot-1.2.0.tgz 0ms (cache hit)
+npm http cache @react-navigation/native-stack@https://registry.npmjs.org/@react-navigati
+on/native-stack/-/native-stack-7.14.4.tgz 0ms (cache hit)
+npm http cache @expo/metro-runtime@https://registry.npmjs.org/@expo/metro-runtime/-/metr
+o-runtime-6.1.2.tgz 0ms (cache hit)
+npm http cache react-native-svg@https://registry.npmjs.org/react-native-svg/-/react-nati
+ve-svg-15.12.1.tgz 0ms (cache hit)
+npm http cache react-native-screens@https://registry.npmjs.org/react-native-screens/-/re
+act-native-screens-4.16.0.tgz 0ms (cache hit)
+npm http cache react-native-safe-area-context@https://registry.npmjs.org/react-native-sa
+fe-area-context/-/react-native-safe-area-context-5.6.2.tgz 0ms (cache hit)
+npm http cache react-native-reanimated@https://registry.npmjs.org/react-native-reanimate
+d/-/react-native-reanimated-4.1.6.tgz 0ms (cache hit)
+npm http cache react-native-gesture-handler@https://registry.npmjs.org/react-native-gest
+ure-handler/-/react-native-gesture-handler-2.28.0.tgz 0ms (cache hit)
+npm http cache 
+react-native@https://registry.npmjs.org/react-native/-/react-native-0.81.5.tgz 0ms 
+(cache hit)
+npm http cache react@https://registry.npmjs.org/react/-/react-19.1.0.tgz 0ms (cache hit)
+npm http cache 
+expo-status-bar@https://registry.npmjs.org/expo-status-bar/-/expo-status-bar-3.0.9.tgz 
+0ms (cache hit)
+npm http cache 
+expo-router@https://registry.npmjs.org/expo-router/-/expo-router-6.0.23.tgz 0ms (cache 
+hit)
+npm http cache 
+expo-linking@https://registry.npmjs.org/expo-linking/-/expo-linking-8.0.11.tgz 0ms 
+(cache hit)
+npm http cache expo-linear-gradient@https://registry.npmjs.org/expo-linear-gradient/-/ex
+po-linear-gradient-15.0.8.tgz 0ms (cache hit)
+npm http cache expo-image@https://registry.npmjs.org/expo-image/-/expo-image-3.0.11.tgz 
+0ms (cache hit)
+npm http cache 
+expo-haptics@https://registry.npmjs.org/expo-haptics/-/expo-haptics-15.0.8.tgz 0ms 
+(cache hit)
+npm http cache expo-font@https://registry.npmjs.org/expo-font/-/expo-font-14.0.11.tgz 
+0ms (cache hit)
+npm http cache expo-build-properties@https://registry.npmjs.org/expo-build-properties/-/
+expo-build-properties-1.0.10.tgz 1ms (cache hit)
+npm http cache expo-blur@https://registry.npmjs.org/expo-blur/-/expo-blur-15.0.8.tgz 
+1ms (cache hit)
+npm http cache @types/react@https://registry.npmjs.org/@types/react/-/react-19.0.14.tgz 
+1ms (cache hit)
+npm http cache 
+yocto-queue@https://registry.npmjs.org/yocto-queue/-/yocto-queue-0.1.0.tgz 0ms (cache 
+hit)
+npm http cache yargs@https://registry.npmjs.org/yargs/-/yargs-17.7.2.tgz 0ms (cache hit)
+npm http cache 
+yargs-parser@https://registry.npmjs.org/yargs-parser/-/yargs-parser-21.1.1.tgz 0ms 
+(cache hit)
+npm http cache yaml@https://registry.npmjs.org/yaml/-/yaml-2.8.2.tgz 0ms (cache hit)
+npm http cache yallist@https://registry.npmjs.org/yallist/-/yallist-3.1.1.tgz 0ms 
+(cache hit)
+npm http cache y18n@https://registry.npmjs.org/y18n/-/y18n-5.0.8.tgz 0ms (cache hit)
+npm http cache xmlbuilder@https://registry.npmjs.org/xmlbuilder/-/xmlbuilder-15.1.1.tgz 
+0ms (cache hit)
+npm http cache xml2js@https://registry.npmjs.org/xml2js/-/xml2js-0.6.0.tgz 0ms (cache 
+hit)
+npm http cache xdate@https://registry.npmjs.org/xdate/-/xdate-0.8.3.tgz 0ms (cache hit)
+npm http cache ws@https://registry.npmjs.org/ws/-/ws-7.5.10.tgz 0ms (cache hit)
+npm http cache xcode@https://registry.npmjs.org/xcode/-/xcode-3.0.1.tgz 0ms (cache hit)
+npm http cache write-file-atomic@https://registry.npmjs.org/write-file-atomic/-/write-fi
+le-atomic-4.0.2.tgz 0ms (cache hit)
+npm http cache wrappy@https://registry.npmjs.org/wrappy/-/wrappy-1.0.2.tgz 0ms (cache 
+hit)
+npm http cache wrap-ansi@https://registry.npmjs.org/wrap-ansi/-/wrap-ansi-7.0.0.tgz 0ms 
+(cache hit)
+npm http cache wonka@https://registry.npmjs.org/wonka/-/wonka-6.3.5.tgz 0ms (cache hit)
+npm http cache which@https://registry.npmjs.org/which/-/which-2.0.2.tgz 1ms (cache hit)
+npm http cache whatwg-url-without-unicode@https://registry.npmjs.org/whatwg-url-without-
+unicode/-/whatwg-url-without-unicode-8.0.0-3.tgz 0ms (cache hit)
+npm http cache 
+whatwg-fetch@https://registry.npmjs.org/whatwg-fetch/-/whatwg-fetch-3.6.20.tgz 0ms 
+(cache hit)
+npm http cache wcwidth@https://registry.npmjs.org/wcwidth/-/wcwidth-1.0.1.tgz 0ms 
+(cache hit)
+npm http cache warn-once@https://registry.npmjs.org/warn-once/-/warn-once-0.1.1.tgz 0ms 
+(cache hit)
+npm http cache walker@https://registry.npmjs.org/walker/-/walker-1.0.8.tgz 0ms (cache 
+hit)
+npm http cache vlq@https://registry.npmjs.org/vlq/-/vlq-1.0.1.tgz 0ms (cache hit)
+npm http cache vary@https://registry.npmjs.org/vary/-/vary-1.1.2.tgz 0ms (cache hit)
+npm http cache validate-npm-package-name@https://registry.npmjs.org/validate-npm-package
+-name/-/validate-npm-package-name-5.0.1.tgz 1ms (cache hit)
+npm http cache uuid@https://registry.npmjs.org/uuid/-/uuid-7.0.3.tgz 0ms (cache hit)
+npm http cache 
+util-deprecate@https://registry.npmjs.org/util-deprecate/-/util-deprecate-1.0.2.tgz 0ms 
+(cache hit)
+npm http cache 
+utils-merge@https://registry.npmjs.org/utils-merge/-/utils-merge-1.0.1.tgz 0ms (cache 
+hit)
+npm http cache use-sync-external-store@https://registry.npmjs.org/use-sync-external-stor
+e/-/use-sync-external-store-1.6.0.tgz 0ms (cache hit)
+npm http cache use-latest-callback@https://registry.npmjs.org/use-latest-callback/-/use-
+latest-callback-0.2.6.tgz 0ms (cache hit)
+npm http cache update-browserslist-db@https://registry.npmjs.org/update-browserslist-db/
+-/update-browserslist-db-1.2.3.tgz 0ms (cache hit)
+npm http cache unpipe@https://registry.npmjs.org/unpipe/-/unpipe-1.0.0.tgz 0ms (cache 
+hit)
+npm http cache unicode-property-aliases-ecmascript@https://registry.npmjs.org/unicode-pr
+operty-aliases-ecmascript/-/unicode-property-aliases-ecmascript-2.2.0.tgz 0ms (cache 
+hit)
+npm http cache unicode-match-property-value-ecmascript@https://registry.npmjs.org/unicod
+e-match-property-value-ecmascript/-/unicode-match-property-value-ecmascript-2.2.1.tgz 
+0ms (cache hit)
+npm http cache unicode-match-property-ecmascript@https://registry.npmjs.org/unicode-matc
+h-property-ecmascript/-/unicode-match-property-ecmascript-2.0.0.tgz 0ms (cache hit)
+npm http cache 
+undici-types@https://registry.npmjs.org/undici-types/-/undici-types-5.26.5.tgz 0ms 
+(cache hit)
+npm http cache unicode-canonical-property-names-ecmascript@https://registry.npmjs.org/un
+icode-canonical-property-names-ecmascript/-/unicode-canonical-property-names-ecmascript-
+2.0.1.tgz 0ms (cache hit)
+npm http cache typescript@https://registry.npmjs.org/typescript/-/typescript-5.3.3.tgz 
+0ms (cache hit)
+npm http cache undici@https://registry.npmjs.org/undici/-/undici-6.23.0.tgz 0ms (cache 
+hit)
+npm http cache 
+type-detect@https://registry.npmjs.org/type-detect/-/type-detect-4.0.8.tgz 0ms (cache 
+hit)
+npm http cache type-fest@https://registry.npmjs.org/type-fest/-/type-fest-0.7.1.tgz 0ms 
+(cache hit)
+npm http cache ts-interface-checker@https://registry.npmjs.org/ts-interface-checker/-/ts
+-interface-checker-0.1.13.tgz 0ms (cache hit)
+npm http cache 
+ts-object-utils@https://registry.npmjs.org/ts-object-utils/-/ts-object-utils-0.0.5.tgz 
+0ms (cache hit)
+npm http cache 
+toidentifier@https://registry.npmjs.org/toidentifier/-/toidentifier-1.0.1.tgz 0ms 
+(cache hit)
+npm http cache 
+to-regex-range@https://registry.npmjs.org/to-regex-range/-/to-regex-range-5.0.1.tgz 0ms 
+(cache hit)
+npm http cache tmpl@https://registry.npmjs.org/tmpl/-/tmpl-1.0.5.tgz 0ms (cache hit)
+npm http cache 
+thenify-all@https://registry.npmjs.org/thenify-all/-/thenify-all-1.6.0.tgz 0ms (cache 
+hit)
+npm http cache tinyglobby@https://registry.npmjs.org/tinyglobby/-/tinyglobby-0.2.15.tgz 
+0ms (cache hit)
+npm http cache 
+test-exclude@https://registry.npmjs.org/test-exclude/-/test-exclude-6.0.0.tgz 0ms 
+(cache hit)
+npm http cache thenify@https://registry.npmjs.org/thenify/-/thenify-3.3.1.tgz 0ms 
+(cache hit)
+npm http cache throat@https://registry.npmjs.org/throat/-/throat-5.0.0.tgz 1ms (cache 
+hit)
+npm http cache terser@https://registry.npmjs.org/terser/-/terser-5.46.0.tgz 0ms (cache 
+hit)
+npm http cache tar@https://registry.npmjs.org/tar/-/tar-7.5.9.tgz 0ms (cache hit)
+npm http cache 
+terminal-link@https://registry.npmjs.org/terminal-link/-/terminal-link-2.1.1.tgz 0ms 
+(cache hit)
+npm http cache 
+tailwindcss@https://registry.npmjs.org/tailwindcss/-/tailwindcss-3.4.19.tgz 0ms (cache 
+hit)
+npm http cache supports-preserve-symlinks-flag@https://registry.npmjs.org/supports-prese
+rve-symlinks-flag/-/supports-preserve-symlinks-flag-1.0.0.tgz 0ms (cache hit)
+npm http cache 
+supports-color@https://registry.npmjs.org/supports-color/-/supports-color-7.2.0.tgz 0ms 
+(cache hit)
+npm http cache sucrase@https://registry.npmjs.org/sucrase/-/sucrase-3.35.1.tgz 0ms 
+(cache hit)
+npm http cache structured-headers@https://registry.npmjs.org/structured-headers/-/struct
+ured-headers-0.4.1.tgz 0ms (cache hit)
+npm http cache supports-hyperlinks@https://registry.npmjs.org/supports-hyperlinks/-/supp
+orts-hyperlinks-2.3.0.tgz 0ms (cache hit)
+npm http cache strip-json-comments@https://registry.npmjs.org/strip-json-comments/-/stri
+p-json-comments-2.0.1.tgz 0ms (cache hit)
+npm http cache strip-ansi@https://registry.npmjs.org/strip-ansi/-/strip-ansi-5.2.0.tgz 
+0ms (cache hit)
+npm http cache 
+string-width@https://registry.npmjs.org/string-width/-/string-width-4.2.3.tgz 0ms 
+(cache hit)
+npm http cache strict-uri-encode@https://registry.npmjs.org/strict-uri-encode/-/strict-u
+ri-encode-2.0.0.tgz 0ms (cache hit)
+npm http cache 
+stream-buffers@https://registry.npmjs.org/stream-buffers/-/stream-buffers-2.2.0.tgz 0ms 
+(cache hit)
+npm http cache statuses@https://registry.npmjs.org/statuses/-/statuses-1.5.0.tgz 0ms 
+(cache hit)
+npm http cache stacktrace-parser@https://registry.npmjs.org/stacktrace-parser/-/stacktra
+ce-parser-0.1.11.tgz 0ms (cache hit)
+npm http cache stackframe@https://registry.npmjs.org/stackframe/-/stackframe-1.3.4.tgz 
+1ms (cache hit)
+npm http cache 
+stack-utils@https://registry.npmjs.org/stack-utils/-/stack-utils-2.0.6.tgz 0ms (cache 
+hit)
+npm http cache sprintf-js@https://registry.npmjs.org/sprintf-js/-/sprintf-js-1.0.3.tgz 
+0ms (cache hit)
+npm http cache 
+split-on-first@https://registry.npmjs.org/split-on-first/-/split-on-first-1.1.0.tgz 0ms 
+(cache hit)
+npm http cache source-map-support@https://registry.npmjs.org/source-map-support/-/source
+-map-support-0.5.21.tgz 0ms (cache hit)
+npm http cache slugify@https://registry.npmjs.org/slugify/-/slugify-1.6.6.tgz 0ms 
+(cache hit)
+npm http cache 
+source-map-js@https://registry.npmjs.org/source-map-js/-/source-map-js-1.2.1.tgz 0ms 
+(cache hit)
+npm http cache slash@https://registry.npmjs.org/slash/-/slash-3.0.0.tgz 0ms (cache hit)
+npm http cache sisteransi@https://registry.npmjs.org/sisteransi/-/sisteransi-1.0.5.tgz 
+0ms (cache hit)
+npm http cache 
+simple-swizzle@https://registry.npmjs.org/simple-swizzle/-/simple-swizzle-0.2.4.tgz 0ms 
+(cache hit)
+npm http cache 
+simple-plist@https://registry.npmjs.org/simple-plist/-/simple-plist-1.3.1.tgz 0ms 
+(cache hit)
+npm http cache 
+signal-exit@https://registry.npmjs.org/signal-exit/-/signal-exit-3.0.7.tgz 0ms (cache 
+hit)
+npm http cache 
+shebang-regex@https://registry.npmjs.org/shebang-regex/-/shebang-regex-3.0.0.tgz 0ms 
+(cache hit)
+npm http cache 
+shebang-command@https://registry.npmjs.org/shebang-command/-/shebang-command-2.0.0.tgz 
+0ms (cache hit)
+npm http cache sf-symbols-typescript@https://registry.npmjs.org/sf-symbols-typescript/-/
+sf-symbols-typescript-2.2.0.tgz 0ms (cache hit)
+npm http cache 
+setprototypeof@https://registry.npmjs.org/setprototypeof/-/setprototypeof-1.2.0.tgz 0ms 
+(cache hit)
+npm http cache 
+serve-static@https://registry.npmjs.org/serve-static/-/serve-static-1.16.3.tgz 0ms 
+(cache hit)
+npm http cache 
+serialize-error@https://registry.npmjs.org/serialize-error/-/serialize-error-2.1.0.tgz 
+0ms (cache hit)
+npm http cache send@https://registry.npmjs.org/send/-/send-0.19.2.tgz 0ms (cache hit)
+npm http cache semver@https://registry.npmjs.org/semver/-/semver-6.3.1.tgz 0ms (cache 
+hit)
+npm http cache sax@https://registry.npmjs.org/sax/-/sax-1.5.0.tgz 0ms (cache hit)
+npm http cache 
+safe-buffer@https://registry.npmjs.org/safe-buffer/-/safe-buffer-5.2.1.tgz 0ms (cache 
+hit)
+npm http cache 
+run-parallel@https://registry.npmjs.org/run-parallel/-/run-parallel-1.2.0.tgz 0ms 
+(cache hit)
+npm http cache rimraf@https://registry.npmjs.org/rimraf/-/rimraf-3.0.2.tgz 0ms (cache 
+hit)
+npm http cache reusify@https://registry.npmjs.org/reusify/-/reusify-1.1.0.tgz 0ms 
+(cache hit)
+npm http cache 
+restore-cursor@https://registry.npmjs.org/restore-cursor/-/restore-cursor-2.0.0.tgz 0ms 
+(cache hit)
+npm http cache 
+resolve.exports@https://registry.npmjs.org/resolve.exports/-/resolve.exports-2.0.3.tgz 
+0ms (cache hit)
+npm http cache resolve-workspace-root@https://registry.npmjs.org/resolve-workspace-root/
+-/resolve-workspace-root-2.0.1.tgz 0ms (cache hit)
+npm http cache 
+resolve-from@https://registry.npmjs.org/resolve-from/-/resolve-from-5.0.0.tgz 0ms 
+(cache hit)
+npm http cache resolve@https://registry.npmjs.org/resolve/-/resolve-1.22.11.tgz 0ms 
+(cache hit)
+npm http cache requireg@https://registry.npmjs.org/requireg/-/requireg-0.2.2.tgz 0ms 
+(cache hit)
+npm http cache require-from-string@https://registry.npmjs.org/require-from-string/-/requ
+ire-from-string-2.0.2.tgz 0ms (cache hit)
+npm http cache require-directory@https://registry.npmjs.org/require-directory/-/require-
+directory-2.1.1.tgz 0ms (cache hit)
+npm http cache 
+regjsparser@https://registry.npmjs.org/regjsparser/-/regjsparser-0.13.0.tgz 0ms (cache 
+hit)
+npm http cache regjsgen@https://registry.npmjs.org/regjsgen/-/regjsgen-0.8.0.tgz 0ms 
+(cache hit)
+npm http cache 
+regexpu-core@https://registry.npmjs.org/regexpu-core/-/regexpu-core-6.4.0.tgz 0ms 
+(cache hit)
+npm http cache regenerator-runtime@https://registry.npmjs.org/regenerator-runtime/-/rege
+nerator-runtime-0.13.11.tgz 0ms (cache hit)
+npm http cache regenerate-unicode-properties@https://registry.npmjs.org/regenerate-unico
+de-properties/-/regenerate-unicode-properties-10.2.2.tgz 0ms (cache hit)
+npm http cache regenerate@https://registry.npmjs.org/regenerate/-/regenerate-1.4.2.tgz 
+0ms (cache hit)
+npm http cache readdirp@https://registry.npmjs.org/readdirp/-/readdirp-3.6.0.tgz 0ms 
+(cache hit)
+npm http cache recyclerlistview@https://registry.npmjs.org/recyclerlistview/-/recyclerli
+stview-4.2.3.tgz 0ms (cache hit)
+npm http cache read-cache@https://registry.npmjs.org/read-cache/-/read-cache-1.0.0.tgz 
+0ms (cache hit)
+npm http cache 
+react-refresh@https://registry.npmjs.org/react-refresh/-/react-refresh-0.14.2.tgz 0ms 
+(cache hit)
+npm http cache react-native-swipe-gestures@https://registry.npmjs.org/react-native-swipe
+-gestures/-/react-native-swipe-gestures-1.0.5.tgz 0ms (cache hit)
+npm http cache react-native-drawer-layout@https://registry.npmjs.org/react-native-drawer
+-layout/-/react-native-drawer-layout-4.2.2.tgz 0ms (cache hit)
+npm http cache react-native-css-interop@https://registry.npmjs.org/react-native-css-inte
+rop/-/react-native-css-interop-0.2.2.tgz 0ms (cache hit)
+npm http cache react-native-calendars@https://registry.npmjs.org/react-native-calendars/
+-/react-native-calendars-1.1314.0.tgz 0ms (cache hit)
+npm http cache react-is@https://registry.npmjs.org/react-is/-/react-is-16.13.1.tgz 0ms 
+(cache hit)
+npm http cache rc@https://registry.npmjs.org/rc/-/rc-1.2.8.tgz 0ms (cache hit)
+npm http cache 
+range-parser@https://registry.npmjs.org/range-parser/-/range-parser-1.2.1.tgz 0ms 
+(cache hit)
+npm http cache 
+react-freeze@https://registry.npmjs.org/react-freeze/-/react-freeze-1.0.4.tgz 0ms 
+(cache hit)
+npm http cache 
+queue-microtask@https://registry.npmjs.org/queue-microtask/-/queue-microtask-1.2.3.tgz 
+0ms (cache hit)
+npm http cache queue@https://registry.npmjs.org/queue/-/queue-6.0.2.tgz 0ms (cache hit)
+npm http cache 
+query-string@https://registry.npmjs.org/query-string/-/query-string-7.1.3.tgz 0ms 
+(cache hit)
+npm http cache 
+qrcode-terminal@https://registry.npmjs.org/qrcode-terminal/-/qrcode-terminal-0.11.0.tgz 
+0ms (cache hit)
+npm http cache punycode@https://registry.npmjs.org/punycode/-/punycode-2.3.1.tgz 0ms 
+(cache hit)
+npm http cache prop-types@https://registry.npmjs.org/prop-types/-/prop-types-15.8.1.tgz 
+0ms (cache hit)
+npm http cache prompts@https://registry.npmjs.org/prompts/-/prompts-2.4.2.tgz 0ms 
+(cache hit)
+npm http cache progress@https://registry.npmjs.org/progress/-/progress-2.0.3.tgz 0ms 
+(cache hit)
+npm http cache proc-log@https://registry.npmjs.org/proc-log/-/proc-log-4.2.0.tgz 0ms 
+(cache hit)
+npm http cache 
+pretty-format@https://registry.npmjs.org/pretty-format/-/pretty-format-29.7.0.tgz 0ms 
+(cache hit)
+npm http cache 
+pretty-bytes@https://registry.npmjs.org/pretty-bytes/-/pretty-bytes-5.6.0.tgz 0ms 
+(cache hit)
+npm http cache postcss-value-parser@https://registry.npmjs.org/postcss-value-parser/-/po
+stcss-value-parser-4.2.0.tgz 0ms (cache hit)
+npm http cache postcss-selector-parser@https://registry.npmjs.org/postcss-selector-parse
+r/-/postcss-selector-parser-6.1.2.tgz 0ms (cache hit)
+npm http cache 
+postcss-nested@https://registry.npmjs.org/postcss-nested/-/postcss-nested-6.2.0.tgz 0ms 
+(cache hit)
+npm http cache postcss-js@https://registry.npmjs.org/postcss-js/-/postcss-js-4.1.0.tgz 
+1ms (cache hit)
+npm http cache postcss-load-config@https://registry.npmjs.org/postcss-load-config/-/post
+css-load-config-6.0.1.tgz 1ms (cache hit)
+npm http cache 
+postcss-import@https://registry.npmjs.org/postcss-import/-/postcss-import-15.1.0.tgz 
+0ms (cache hit)
+npm http cache postcss@https://registry.npmjs.org/postcss/-/postcss-8.4.49.tgz 0ms 
+(cache hit)
+npm http cache pngjs@https://registry.npmjs.org/pngjs/-/pngjs-3.4.0.tgz 0ms (cache hit)
+npm http cache plist@https://registry.npmjs.org/plist/-/plist-3.1.0.tgz 0ms (cache hit)
+npm http cache picomatch@https://registry.npmjs.org/picomatch/-/picomatch-4.0.3.tgz 0ms 
+(cache hit)
+npm http cache picocolors@https://registry.npmjs.org/picocolors/-/picocolors-1.1.1.tgz 
+0ms (cache hit)
+npm http cache 
+path-scurry@https://registry.npmjs.org/path-scurry/-/path-scurry-2.0.2.tgz 0ms (cache 
+hit)
+npm http cache path-parse@https://registry.npmjs.org/path-parse/-/path-parse-1.0.7.tgz 
+0ms (cache hit)
+npm http cache path-key@https://registry.npmjs.org/path-key/-/path-key-3.1.1.tgz 0ms 
+(cache hit)
+npm http cache 
+path-exists@https://registry.npmjs.org/path-exists/-/path-exists-4.0.0.tgz 0ms (cache 
+hit)
+npm http cache path-is-absolute@https://registry.npmjs.org/path-is-absolute/-/path-is-ab
+solute-1.0.1.tgz 0ms (cache hit)
+npm http cache parseurl@https://registry.npmjs.org/parseurl/-/parseurl-1.3.3.tgz 0ms 
+(cache hit)
+npm http cache parse-png@https://registry.npmjs.org/parse-png/-/parse-png-2.1.0.tgz 0ms 
+(cache hit)
+npm http cache p-try@https://registry.npmjs.org/p-try/-/p-try-2.2.0.tgz 0ms (cache hit)
+npm http cache p-locate@https://registry.npmjs.org/p-locate/-/p-locate-4.1.0.tgz 0ms 
+(cache hit)
+npm http cache p-limit@https://registry.npmjs.org/p-limit/-/p-limit-3.1.0.tgz 0ms 
+(cache hit)
+npm http cache ora@https://registry.npmjs.org/ora/-/ora-3.4.0.tgz 0ms (cache hit)
+npm http cache open@https://registry.npmjs.org/open/-/open-7.4.2.tgz 0ms (cache hit)
+npm http cache once@https://registry.npmjs.org/once/-/once-1.4.0.tgz 0ms (cache hit)
+npm http cache on-headers@https://registry.npmjs.org/on-headers/-/on-headers-1.1.0.tgz 
+1ms (cache hit)
+npm http cache 
+on-finished@https://registry.npmjs.org/on-finished/-/on-finished-2.3.0.tgz 0ms (cache 
+hit)
+npm http cache pirates@https://registry.npmjs.org/pirates/-/pirates-4.0.7.tgz 1ms 
+(cache hit)
+npm http cache 
+object-assign@https://registry.npmjs.org/object-assign/-/object-assign-4.1.1.tgz 0ms 
+(cache hit)
+npm http cache 
+object-hash@https://registry.npmjs.org/object-hash/-/object-hash-3.0.0.tgz 0ms (cache 
+hit)
+npm http cache ob1@https://registry.npmjs.org/ob1/-/ob1-0.83.3.tgz 0ms (cache hit)
+npm http cache nth-check@https://registry.npmjs.org/nth-check/-/nth-check-2.1.1.tgz 0ms 
+(cache hit)
+npm http cache nullthrows@https://registry.npmjs.org/nullthrows/-/nullthrows-1.1.1.tgz 
+0ms (cache hit)
+npm http cache 
+npm-package-arg@https://registry.npmjs.org/npm-package-arg/-/npm-package-arg-11.0.3.tgz 
+0ms (cache hit)
+npm http cache 
+normalize-path@https://registry.npmjs.org/normalize-path/-/normalize-path-3.0.0.tgz 0ms 
+(cache hit)
+npm http cache 
+node-releases@https://registry.npmjs.org/node-releases/-/node-releases-2.0.36.tgz 0ms 
+(cache hit)
+npm http cache node-int64@https://registry.npmjs.org/node-int64/-/node-int64-0.4.0.tgz 
+0ms (cache hit)
+npm http cache node-forge@https://registry.npmjs.org/node-forge/-/node-forge-1.3.3.tgz 
+0ms (cache hit)
+npm http cache nested-error-stacks@https://registry.npmjs.org/nested-error-stacks/-/nest
+ed-error-stacks-2.0.1.tgz 0ms (cache hit)
+npm http cache negotiator@https://registry.npmjs.org/negotiator/-/negotiator-0.6.3.tgz 
+0ms (cache hit)
+npm http cache nativewind@https://registry.npmjs.org/nativewind/-/nativewind-4.2.2.tgz 
+0ms (cache hit)
+npm http cache mz@https://registry.npmjs.org/mz/-/mz-2.7.0.tgz 0ms (cache hit)
+npm http cache ms@https://registry.npmjs.org/ms/-/ms-2.1.3.tgz 0ms (cache hit)
+npm http cache nanoid@https://registry.npmjs.org/nanoid/-/nanoid-3.3.11.tgz 0ms (cache 
+hit)
+npm http cache moment@https://registry.npmjs.org/moment/-/moment-2.30.1.tgz 0ms (cache 
+hit)
+npm http cache mkdirp@https://registry.npmjs.org/mkdirp/-/mkdirp-1.0.4.tgz 0ms (cache 
+hit)
+npm http cache minizlib@https://registry.npmjs.org/minizlib/-/minizlib-3.1.0.tgz 0ms 
+(cache hit)
+npm http cache minipass@https://registry.npmjs.org/minipass/-/minipass-7.1.3.tgz 0ms 
+(cache hit)
+npm http cache minimist@https://registry.npmjs.org/minimist/-/minimist-1.2.8.tgz 0ms 
+(cache hit)
+npm http cache mime-types@https://registry.npmjs.org/mime-types/-/mime-types-2.1.35.tgz 
+1ms (cache hit)
+npm http cache minimatch@https://registry.npmjs.org/minimatch/-/minimatch-9.0.9.tgz 0ms 
+(cache hit)
+npm http cache mime-db@https://registry.npmjs.org/mime-db/-/mime-db-1.54.0.tgz 0ms 
+(cache hit)
+npm http cache mime@https://registry.npmjs.org/mime/-/mime-1.6.0.tgz 0ms (cache hit)
+npm http cache micromatch@https://registry.npmjs.org/micromatch/-/micromatch-4.0.8.tgz 
+0ms (cache hit)
+npm http cache metro-transform-worker@https://registry.npmjs.org/metro-transform-worker/
+-/metro-transform-worker-0.83.3.tgz 0ms (cache hit)
+npm http cache metro-transform-plugins@https://registry.npmjs.org/metro-transform-plugin
+s/-/metro-transform-plugins-0.83.3.tgz 0ms (cache hit)
+npm http cache metro-symbolicate@https://registry.npmjs.org/metro-symbolicate/-/metro-sy
+mbolicate-0.83.3.tgz 0ms (cache hit)
+npm http cache metro-source-map@https://registry.npmjs.org/metro-source-map/-/metro-sour
+ce-map-0.83.3.tgz 0ms (cache hit)
+npm http cache 
+metro-runtime@https://registry.npmjs.org/metro-runtime/-/metro-runtime-0.83.3.tgz 0ms 
+(cache hit)
+npm http cache 
+metro-resolver@https://registry.npmjs.org/metro-resolver/-/metro-resolver-0.83.3.tgz 
+0ms (cache hit)
+npm http cache metro-minify-terser@https://registry.npmjs.org/metro-minify-terser/-/metr
+o-minify-terser-0.83.3.tgz 0ms (cache hit)
+npm http cache 
+metro-file-map@https://registry.npmjs.org/metro-file-map/-/metro-file-map-0.83.3.tgz 
+0ms (cache hit)
+npm http cache metro-core@https://registry.npmjs.org/metro-core/-/metro-core-0.83.3.tgz 
+0ms (cache hit)
+npm http cache 
+metro-config@https://registry.npmjs.org/metro-config/-/metro-config-0.83.3.tgz 1ms 
+(cache hit)
+npm http cache 
+metro-cache@https://registry.npmjs.org/metro-cache/-/metro-cache-0.83.3.tgz 0ms (cache 
+hit)
+npm http cache metro-babel-transformer@https://registry.npmjs.org/metro-babel-transforme
+r/-/metro-babel-transformer-0.83.3.tgz 0ms (cache hit)
+npm http cache 
+metro-cache-key@https://registry.npmjs.org/metro-cache-key/-/metro-cache-key-0.83.3.tgz 
+0ms (cache hit)
+npm http cache metro@https://registry.npmjs.org/metro/-/metro-0.83.3.tgz 2ms (cache hit)
+npm http cache merge2@https://registry.npmjs.org/merge2/-/merge2-1.4.1.tgz 0ms (cache 
+hit)
+npm http cache 
+merge-stream@https://registry.npmjs.org/merge-stream/-/merge-stream-2.0.0.tgz 0ms 
+(cache hit)
+npm http cache mdn-data@https://registry.npmjs.org/mdn-data/-/mdn-data-2.0.14.tgz 0ms 
+(cache hit)
+npm http cache 
+memoize-one@https://registry.npmjs.org/memoize-one/-/memoize-one-5.2.1.tgz 0ms (cache 
+hit)
+npm http cache marky@https://registry.npmjs.org/marky/-/marky-1.3.0.tgz 0ms (cache hit)
+npm http cache makeerror@https://registry.npmjs.org/makeerror/-/makeerror-1.0.12.tgz 
+0ms (cache hit)
+npm http cache lucide-react-native@https://registry.npmjs.org/lucide-react-native/-/luci
+de-react-native-0.363.0.tgz 0ms (cache hit)
+npm http cache lru-cache@https://registry.npmjs.org/lru-cache/-/lru-cache-5.1.1.tgz 1ms 
+(cache hit)
+npm http cache 
+loose-envify@https://registry.npmjs.org/loose-envify/-/loose-envify-1.4.0.tgz 0ms 
+(cache hit)
+npm http cache 
+log-symbols@https://registry.npmjs.org/log-symbols/-/log-symbols-2.2.0.tgz 0ms (cache 
+hit)
+npm http cache 
+lodash.throttle@https://registry.npmjs.org/lodash.throttle/-/lodash.throttle-4.1.1.tgz 
+0ms (cache hit)
+npm http cache 
+lodash.debounce@https://registry.npmjs.org/lodash.debounce/-/lodash.debounce-4.0.8.tgz 
+0ms (cache hit)
+npm http cache lodash@https://registry.npmjs.org/lodash/-/lodash-4.17.23.tgz 0ms (cache 
+hit)
+npm http cache 
+locate-path@https://registry.npmjs.org/locate-path/-/locate-path-5.0.0.tgz 0ms (cache 
+hit)
+npm http cache lines-and-columns@https://registry.npmjs.org/lines-and-columns/-/lines-an
+d-columns-1.2.4.tgz 0ms (cache hit)
+npm http cache lilconfig@https://registry.npmjs.org/lilconfig/-/lilconfig-3.1.3.tgz 0ms 
+(cache hit)
+npm http cache lightningcss-win32-x64-msvc@https://registry.npmjs.org/lightningcss-win32
+-x64-msvc/-/lightningcss-win32-x64-msvc-1.31.1.tgz 0ms (cache hit)
+npm http cache 
+lightningcss@https://registry.npmjs.org/lightningcss/-/lightningcss-1.31.1.tgz 0ms 
+(cache hit)
+npm http cache lighthouse-logger@https://registry.npmjs.org/lighthouse-logger/-/lighthou
+se-logger-1.4.2.tgz 0ms (cache hit)
+npm http cache leven@https://registry.npmjs.org/leven/-/leven-3.1.0.tgz 0ms (cache hit)
+npm http cache kleur@https://registry.npmjs.org/kleur/-/kleur-3.0.3.tgz 0ms (cache hit)
+npm http cache json5@https://registry.npmjs.org/json5/-/json5-2.2.3.tgz 0ms (cache hit)
+npm http cache json-schema-traverse@https://registry.npmjs.org/json-schema-traverse/-/js
+on-schema-traverse-1.0.0.tgz 0ms (cache hit)
+npm http cache jsesc@https://registry.npmjs.org/jsesc/-/jsesc-3.1.0.tgz 0ms (cache hit)
+npm http cache js-yaml@https://registry.npmjs.org/js-yaml/-/js-yaml-4.1.1.tgz 0ms 
+(cache hit)
+npm http cache 
+jsc-safe-url@https://registry.npmjs.org/jsc-safe-url/-/jsc-safe-url-0.2.4.tgz 0ms 
+(cache hit)
+npm http cache js-tokens@https://registry.npmjs.org/js-tokens/-/js-tokens-4.0.0.tgz 0ms 
+(cache hit)
+npm http cache jiti@https://registry.npmjs.org/jiti/-/jiti-1.21.7.tgz 0ms (cache hit)
+npm http cache 
+jimp-compact@https://registry.npmjs.org/jimp-compact/-/jimp-compact-0.16.1.tgz 0ms 
+(cache hit)
+npm http cache 
+jest-validate@https://registry.npmjs.org/jest-validate/-/jest-validate-29.7.0.tgz 0ms 
+(cache hit)
+npm http cache 
+jest-worker@https://registry.npmjs.org/jest-worker/-/jest-worker-29.7.0.tgz 0ms (cache 
+hit)
+npm http cache jest-util@https://registry.npmjs.org/jest-util/-/jest-util-29.7.0.tgz 
+0ms (cache hit)
+npm http cache 
+jest-regex-util@https://registry.npmjs.org/jest-regex-util/-/jest-regex-util-29.6.3.tgz 
+0ms (cache hit)
+npm http cache jest-mock@https://registry.npmjs.org/jest-mock/-/jest-mock-29.7.0.tgz 
+0ms (cache hit)
+npm http cache jest-message-util@https://registry.npmjs.org/jest-message-util/-/jest-mes
+sage-util-29.7.0.tgz 0ms (cache hit)
+npm http cache 
+jest-haste-map@https://registry.npmjs.org/jest-haste-map/-/jest-haste-map-29.7.0.tgz 
+0ms (cache hit)
+npm http cache 
+jest-get-type@https://registry.npmjs.org/jest-get-type/-/jest-get-type-29.6.3.tgz 0ms 
+(cache hit)
+npm http cache jest-environment-node@https://registry.npmjs.org/jest-environment-node/-/
+jest-environment-node-29.7.0.tgz 0ms (cache hit)
+npm http cache istanbul-lib-instrument@https://registry.npmjs.org/istanbul-lib-instrumen
+t/-/istanbul-lib-instrument-5.2.1.tgz 0ms (cache hit)
+npm http cache istanbul-lib-coverage@https://registry.npmjs.org/istanbul-lib-coverage/-/
+istanbul-lib-coverage-3.2.2.tgz 0ms (cache hit)
+npm http cache is-wsl@https://registry.npmjs.org/is-wsl/-/is-wsl-2.2.0.tgz 0ms (cache 
+hit)
+npm http cache isexe@https://registry.npmjs.org/isexe/-/isexe-2.0.0.tgz 0ms (cache hit)
+npm http cache is-number@https://registry.npmjs.org/is-number/-/is-number-7.0.0.tgz 0ms 
+(cache hit)
+npm http cache is-glob@https://registry.npmjs.org/is-glob/-/is-glob-4.0.3.tgz 0ms 
+(cache hit)
+npm http cache is-fullwidth-code-point@https://registry.npmjs.org/is-fullwidth-code-poin
+t/-/is-fullwidth-code-point-3.0.0.tgz 0ms (cache hit)
+npm http cache is-extglob@https://registry.npmjs.org/is-extglob/-/is-extglob-2.1.1.tgz 
+0ms (cache hit)
+npm http cache is-docker@https://registry.npmjs.org/is-docker/-/is-docker-2.2.1.tgz 0ms 
+(cache hit)
+npm http cache 
+lan-network@https://registry.npmjs.org/lan-network/-/lan-network-0.1.7.tgz 0ms (cache 
+hit)
+npm http cache 
+is-core-module@https://registry.npmjs.org/is-core-module/-/is-core-module-2.16.1.tgz 
+0ms (cache hit)
+npm http cache 
+is-binary-path@https://registry.npmjs.org/is-binary-path/-/is-binary-path-2.1.0.tgz 0ms 
+(cache hit)
+npm http cache invariant@https://registry.npmjs.org/invariant/-/invariant-2.2.4.tgz 0ms 
+(cache hit)
+npm http cache ini@https://registry.npmjs.org/ini/-/ini-1.3.8.tgz 0ms (cache hit)
+npm http cache inflight@https://registry.npmjs.org/inflight/-/inflight-1.0.6.tgz 0ms 
+(cache hit)
+npm http cache inherits@https://registry.npmjs.org/inherits/-/inherits-2.0.4.tgz 0ms 
+(cache hit)
+npm http cache 
+imurmurhash@https://registry.npmjs.org/imurmurhash/-/imurmurhash-0.1.4.tgz 0ms (cache 
+hit)
+npm http cache ignore@https://registry.npmjs.org/ignore/-/ignore-5.3.2.tgz 0ms (cache 
+hit)
+npm http cache image-size@https://registry.npmjs.org/image-size/-/image-size-1.2.1.tgz 
+0ms (cache hit)
+npm http cache ieee754@https://registry.npmjs.org/ieee754/-/ieee754-1.2.1.tgz 0ms 
+(cache hit)
+npm http cache https-proxy-agent@https://registry.npmjs.org/https-proxy-agent/-/https-pr
+oxy-agent-7.0.6.tgz 0ms (cache hit)
+npm http cache 
+http-errors@https://registry.npmjs.org/http-errors/-/http-errors-2.0.1.tgz 0ms (cache 
+hit)
+npm http cache 
+hosted-git-info@https://registry.npmjs.org/hosted-git-info/-/hosted-git-info-7.0.2.tgz 
+0ms (cache hit)
+npm http cache hoist-non-react-statics@https://registry.npmjs.org/hoist-non-react-static
+s/-/hoist-non-react-statics-3.3.2.tgz 0ms (cache hit)
+npm http cache 
+hermes-parser@https://registry.npmjs.org/hermes-parser/-/hermes-parser-0.29.1.tgz 0ms 
+(cache hit)
+npm http cache 
+hermes-estree@https://registry.npmjs.org/hermes-estree/-/hermes-estree-0.29.1.tgz 1ms 
+(cache hit)
+npm http cache hasown@https://registry.npmjs.org/hasown/-/hasown-2.0.2.tgz 0ms (cache 
+hit)
+npm http cache has-flag@https://registry.npmjs.org/has-flag/-/has-flag-4.0.0.tgz 0ms 
+(cache hit)
+npm http cache 
+graceful-fs@https://registry.npmjs.org/graceful-fs/-/graceful-fs-4.2.11.tgz 0ms (cache 
+hit)
+npm http cache glob@https://registry.npmjs.org/glob/-/glob-13.0.6.tgz 0ms (cache hit)
+npm http cache 
+glob-parent@https://registry.npmjs.org/glob-parent/-/glob-parent-5.1.2.tgz 0ms (cache 
+hit)
+npm http cache getenv@https://registry.npmjs.org/getenv/-/getenv-2.0.0.tgz 0ms (cache 
+hit)
+npm http cache get-package-type@https://registry.npmjs.org/get-package-type/-/get-packag
+e-type-0.1.0.tgz 0ms (cache hit)
+npm http cache 
+get-caller-file@https://registry.npmjs.org/get-caller-file/-/get-caller-file-2.0.5.tgz 
+0ms (cache hit)
+npm http cache gensync@https://registry.npmjs.org/gensync/-/gensync-1.0.0-beta.2.tgz 
+0ms (cache hit)
+npm http cache 
+function-bind@https://registry.npmjs.org/function-bind/-/function-bind-1.1.2.tgz 1ms 
+(cache hit)
+npm http cache 
+fs.realpath@https://registry.npmjs.org/fs.realpath/-/fs.realpath-1.0.0.tgz 0ms (cache 
+hit)
+npm http cache fresh@https://registry.npmjs.org/fresh/-/fresh-0.5.2.tgz 0ms (cache hit)
+npm http cache 
+freeport-async@https://registry.npmjs.org/freeport-async/-/freeport-async-2.0.0.tgz 0ms 
+(cache hit)
+npm http cache fontfaceobserver@https://registry.npmjs.org/fontfaceobserver/-/fontfaceob
+server-2.3.0.tgz 1ms (cache hit)
+npm http cache flow-enums-runtime@https://registry.npmjs.org/flow-enums-runtime/-/flow-e
+nums-runtime-0.0.6.tgz 0ms (cache hit)
+npm http cache find-up@https://registry.npmjs.org/find-up/-/find-up-4.1.0.tgz 0ms 
+(cache hit)
+npm http cache 
+finalhandler@https://registry.npmjs.org/finalhandler/-/finalhandler-1.1.2.tgz 0ms 
+(cache hit)
+npm http cache filter-obj@https://registry.npmjs.org/filter-obj/-/filter-obj-1.1.0.tgz 
+0ms (cache hit)
+npm http cache fill-range@https://registry.npmjs.org/fill-range/-/fill-range-7.1.1.tgz 
+0ms (cache hit)
+npm http cache fdir@https://registry.npmjs.org/fdir/-/fdir-6.5.0.tgz 0ms (cache hit)
+npm http cache 
+fb-watchman@https://registry.npmjs.org/fb-watchman/-/fb-watchman-2.0.2.tgz 0ms (cache 
+hit)
+npm http cache fastq@https://registry.npmjs.org/fastq/-/fastq-1.20.1.tgz 0ms (cache hit)
+npm http cache fast-uri@https://registry.npmjs.org/fast-uri/-/fast-uri-3.1.0.tgz 0ms 
+(cache hit)
+npm http cache fast-glob@https://registry.npmjs.org/fast-glob/-/fast-glob-3.3.3.tgz 0ms 
+(cache hit)
+npm http cache fast-json-stable-stringify@https://registry.npmjs.org/fast-json-stable-st
+ringify/-/fast-json-stable-stringify-2.1.0.tgz 0ms (cache hit)
+npm http cache 
+fast-deep-equal@https://registry.npmjs.org/fast-deep-equal/-/fast-deep-equal-3.1.3.tgz 
+0ms (cache hit)
+npm http cache exponential-backoff@https://registry.npmjs.org/exponential-backoff/-/expo
+nential-backoff-3.1.3.tgz 0ms (cache hit)
+npm http cache 
+expo-server@https://registry.npmjs.org/expo-server/-/expo-server-1.0.5.tgz 0ms (cache 
+hit)
+npm http cache expo-modules-autolinking@https://registry.npmjs.org/expo-modules-autolink
+ing/-/expo-modules-autolinking-3.0.24.tgz 0ms (cache hit)
+npm http cache expo-modules-core@https://registry.npmjs.org/expo-modules-core/-/expo-mod
+ules-core-3.0.29.tgz 0ms (cache hit)
+npm http cache 
+expo-constants@https://registry.npmjs.org/expo-constants/-/expo-constants-18.0.13.tgz 
+0ms (cache hit)
+npm http cache 
+expo-asset@https://registry.npmjs.org/expo-asset/-/expo-asset-12.0.12.tgz 1ms (cache 
+hit)
+npm http cache expo-file-system@https://registry.npmjs.org/expo-file-system/-/expo-file-
+system-19.0.21.tgz 0ms (cache hit)
+npm http cache 
+expo-keep-awake@https://registry.npmjs.org/expo-keep-awake/-/expo-keep-awake-15.0.8.tgz 
+0ms (cache hit)
+npm http cache expo@https://registry.npmjs.org/expo/-/expo-54.0.33.tgz 0ms (cache hit)
+npm http cache event-target-shim@https://registry.npmjs.org/event-target-shim/-/event-ta
+rget-shim-5.0.1.tgz 0ms (cache hit)
+npm http cache etag@https://registry.npmjs.org/etag/-/etag-1.8.1.tgz 0ms (cache hit)
+npm http cache esprima@https://registry.npmjs.org/esprima/-/esprima-4.0.1.tgz 1ms 
+(cache hit)
+npm http cache escape-string-regexp@https://registry.npmjs.org/escape-string-regexp/-/es
+cape-string-regexp-4.0.0.tgz 0ms (cache hit)
+npm http cache 
+escape-html@https://registry.npmjs.org/escape-html/-/escape-html-1.0.3.tgz 0ms (cache 
+hit)
+npm http cache env-editor@https://registry.npmjs.org/env-editor/-/env-editor-0.4.2.tgz 
+0ms (cache hit)
+npm http cache error-stack-parser@https://registry.npmjs.org/error-stack-parser/-/error-
+stack-parser-2.1.4.tgz 0ms (cache hit)
+npm http cache escalade@https://registry.npmjs.org/escalade/-/escalade-3.2.0.tgz 0ms 
+(cache hit)
+npm http cache entities@https://registry.npmjs.org/entities/-/entities-4.5.0.tgz 0ms 
+(cache hit)
+npm http cache 
+emoji-regex@https://registry.npmjs.org/emoji-regex/-/emoji-regex-8.0.0.tgz 1ms (cache 
+hit)
+npm http cache encodeurl@https://registry.npmjs.org/encodeurl/-/encodeurl-1.0.2.tgz 0ms 
+(cache hit)
+npm http cache electron-to-chromium@https://registry.npmjs.org/electron-to-chromium/-/el
+ectron-to-chromium-1.5.307.tgz 0ms (cache hit)
+npm http cache ee-first@https://registry.npmjs.org/ee-first/-/ee-first-1.1.1.tgz 0ms 
+(cache hit)
+npm http cache 
+dotenv-expand@https://registry.npmjs.org/dotenv-expand/-/dotenv-expand-11.0.7.tgz 0ms 
+(cache hit)
+npm http cache dotenv@https://registry.npmjs.org/dotenv/-/dotenv-16.4.7.tgz 0ms (cache 
+hit)
+npm http cache domutils@https://registry.npmjs.org/domutils/-/domutils-3.2.2.tgz 0ms 
+(cache hit)
+npm http cache domhandler@https://registry.npmjs.org/domhandler/-/domhandler-5.0.3.tgz 
+0ms (cache hit)
+npm http cache 
+domelementtype@https://registry.npmjs.org/domelementtype/-/domelementtype-2.3.0.tgz 0ms 
+(cache hit)
+npm http cache 
+dom-serializer@https://registry.npmjs.org/dom-serializer/-/dom-serializer-2.0.0.tgz 0ms 
+(cache hit)
+npm http cache dlv@https://registry.npmjs.org/dlv/-/dlv-1.1.3.tgz 0ms (cache hit)
+npm http cache didyoumean@https://registry.npmjs.org/didyoumean/-/didyoumean-1.2.2.tgz 
+0ms (cache hit)
+npm http cache 
+detect-libc@https://registry.npmjs.org/detect-libc/-/detect-libc-1.0.3.tgz 0ms (cache 
+hit)
+npm http cache depd@https://registry.npmjs.org/depd/-/depd-2.0.0.tgz 0ms (cache hit)
+npm http cache define-lazy-prop@https://registry.npmjs.org/define-lazy-prop/-/define-laz
+y-prop-2.0.0.tgz 0ms (cache hit)
+npm http cache defaults@https://registry.npmjs.org/defaults/-/defaults-1.0.4.tgz 0ms 
+(cache hit)
+npm http cache deepmerge@https://registry.npmjs.org/deepmerge/-/deepmerge-4.3.1.tgz 0ms 
+(cache hit)
+npm http cache 
+deep-extend@https://registry.npmjs.org/deep-extend/-/deep-extend-0.6.0.tgz 0ms (cache 
+hit)
+npm http cache decode-uri-component@https://registry.npmjs.org/decode-uri-component/-/de
+code-uri-component-0.2.2.tgz 0ms (cache hit)
+npm http cache csstype@https://registry.npmjs.org/csstype/-/csstype-3.2.3.tgz 0ms 
+(cache hit)
+npm http cache cssesc@https://registry.npmjs.org/cssesc/-/cssesc-3.0.0.tgz 0ms (cache 
+hit)
+npm http cache debug@https://registry.npmjs.org/debug/-/debug-4.4.3.tgz 0ms (cache hit)
+npm http cache css-what@https://registry.npmjs.org/css-what/-/css-what-6.2.2.tgz 0ms 
+(cache hit)
+npm http cache css-tree@https://registry.npmjs.org/css-tree/-/css-tree-1.1.3.tgz 0ms 
+(cache hit)
+npm http cache css-select@https://registry.npmjs.org/css-select/-/css-select-5.2.2.tgz 
+0ms (cache hit)
+npm http cache 
+cross-spawn@https://registry.npmjs.org/cross-spawn/-/cross-spawn-7.0.6.tgz 0ms (cache 
+hit)
+npm http cache cross-env@https://registry.npmjs.org/cross-env/-/cross-env-10.1.0.tgz 
+0ms (cache hit)
+npm http cache 
+core-js-compat@https://registry.npmjs.org/core-js-compat/-/core-js-compat-3.48.0.tgz 
+0ms (cache hit)
+npm http cache convert-source-map@https://registry.npmjs.org/convert-source-map/-/conver
+t-source-map-2.0.0.tgz 0ms (cache hit)
+npm http cache connect@https://registry.npmjs.org/connect/-/connect-3.7.0.tgz 0ms 
+(cache hit)
+npm http cache concat-map@https://registry.npmjs.org/concat-map/-/concat-map-0.0.1.tgz 
+2ms (cache hit)
+npm http cache 
+compression@https://registry.npmjs.org/compression/-/compression-1.8.1.tgz 0ms (cache 
+hit)
+npm http cache 
+compressible@https://registry.npmjs.org/compressible/-/compressible-2.0.18.tgz 1ms 
+(cache hit)
+npm http cache 
+comment-json@https://registry.npmjs.org/comment-json/-/comment-json-4.6.2.tgz 0ms 
+(cache hit)
+npm http cache commander@https://registry.npmjs.org/commander/-/commander-7.2.0.tgz 0ms 
+(cache hit)
+npm http cache 
+color-string@https://registry.npmjs.org/color-string/-/color-string-1.9.1.tgz 0ms 
+(cache hit)
+npm http cache color-name@https://registry.npmjs.org/color-name/-/color-name-1.1.4.tgz 
+0ms (cache hit)
+npm http cache 
+color-convert@https://registry.npmjs.org/color-convert/-/color-convert-2.0.1.tgz 0ms 
+(cache hit)
+npm http cache color@https://registry.npmjs.org/color/-/color-4.2.3.tgz 0ms (cache hit)
+npm http cache clone@https://registry.npmjs.org/clone/-/clone-1.0.4.tgz 0ms (cache hit)
+npm http cache cliui@https://registry.npmjs.org/cliui/-/cliui-8.0.1.tgz 0ms (cache hit)
+npm http cache 
+cli-spinners@https://registry.npmjs.org/cli-spinners/-/cli-spinners-2.9.2.tgz 0ms 
+(cache hit)
+npm http cache cli-cursor@https://registry.npmjs.org/cli-cursor/-/cli-cursor-2.1.0.tgz 
+0ms (cache hit)
+npm http cache ci-info@https://registry.npmjs.org/ci-info/-/ci-info-3.9.0.tgz 0ms 
+(cache hit)
+npm http cache chromium-edge-launcher@https://registry.npmjs.org/chromium-edge-launcher/
+-/chromium-edge-launcher-0.2.0.tgz 0ms (cache hit)
+npm http cache 
+chrome-launcher@https://registry.npmjs.org/chrome-launcher/-/chrome-launcher-0.15.2.tgz 
+0ms (cache hit)
+npm http cache chokidar@https://registry.npmjs.org/chokidar/-/chokidar-3.6.0.tgz 1ms 
+(cache hit)
+npm http cache chownr@https://registry.npmjs.org/chownr/-/chownr-3.0.0.tgz 0ms (cache 
+hit)
+npm http cache chalk@https://registry.npmjs.org/chalk/-/chalk-4.1.2.tgz 0ms (cache hit)
+npm http cache 
+caniuse-lite@https://registry.npmjs.org/caniuse-lite/-/caniuse-lite-1.0.30001776.tgz 
+0ms (cache hit)
+npm http cache 
+camelcase-css@https://registry.npmjs.org/camelcase-css/-/camelcase-css-2.0.1.tgz 0ms 
+(cache hit)
+npm http cache camelcase@https://registry.npmjs.org/camelcase/-/camelcase-6.3.0.tgz 0ms 
+(cache hit)
+npm http cache bytes@https://registry.npmjs.org/bytes/-/bytes-3.1.2.tgz 0ms (cache hit)
+npm http cache 
+buffer-from@https://registry.npmjs.org/buffer-from/-/buffer-from-1.1.2.tgz 0ms (cache 
+hit)
+npm http cache buffer@https://registry.npmjs.org/buffer/-/buffer-5.7.1.tgz 0ms (cache 
+hit)
+npm http cache bser@https://registry.npmjs.org/bser/-/bser-2.1.1.tgz 0ms (cache hit)
+npm http cache 
+browserslist@https://registry.npmjs.org/browserslist/-/browserslist-4.28.1.tgz 0ms 
+(cache hit)
+npm http cache braces@https://registry.npmjs.org/braces/-/braces-3.0.3.tgz 0ms (cache 
+hit)
+npm http cache 
+brace-expansion@https://registry.npmjs.org/brace-expansion/-/brace-expansion-2.0.2.tgz 
+0ms (cache hit)
+npm http cache 
+bplist-parser@https://registry.npmjs.org/bplist-parser/-/bplist-parser-0.3.2.tgz 0ms 
+(cache hit)
+npm http cache 
+bplist-creator@https://registry.npmjs.org/bplist-creator/-/bplist-creator-0.1.0.tgz 0ms 
+(cache hit)
+npm http cache boolbase@https://registry.npmjs.org/boolbase/-/boolbase-1.0.0.tgz 0ms 
+(cache hit)
+npm http cache binary-extensions@https://registry.npmjs.org/binary-extensions/-/binary-e
+xtensions-2.3.0.tgz 0ms (cache hit)
+npm http cache better-opn@https://registry.npmjs.org/better-opn/-/better-opn-3.0.2.tgz 
+0ms (cache hit)
+npm http cache 
+big-integer@https://registry.npmjs.org/big-integer/-/big-integer-1.6.52.tgz 0ms (cache 
+hit)
+npm http cache baseline-browser-mapping@https://registry.npmjs.org/baseline-browser-mapp
+ing/-/baseline-browser-mapping-2.10.0.tgz 0ms (cache hit)
+npm http cache base64-js@https://registry.npmjs.org/base64-js/-/base64-js-1.5.1.tgz 0ms 
+(cache hit)
+npm http cache 
+balanced-match@https://registry.npmjs.org/balanced-match/-/balanced-match-1.0.2.tgz 0ms 
+(cache hit)
+npm http cache babel-preset-jest@https://registry.npmjs.org/babel-preset-jest/-/babel-pr
+eset-jest-29.6.3.tgz 0ms (cache hit)
+npm http cache babel-preset-expo@https://registry.npmjs.org/babel-preset-expo/-/babel-pr
+eset-expo-54.0.10.tgz 0ms (cache hit)
+npm http cache babel-preset-current-node-syntax@https://registry.npmjs.org/babel-preset-
+current-node-syntax/-/babel-preset-current-node-syntax-1.2.0.tgz 0ms (cache hit)
+npm http cache babel-plugin-syntax-hermes-parser@https://registry.npmjs.org/babel-plugin
+-syntax-hermes-parser/-/babel-plugin-syntax-hermes-parser-0.29.1.tgz 0ms (cache hit)
+npm http cache babel-plugin-transform-flow-enums@https://registry.npmjs.org/babel-plugin
+-transform-flow-enums/-/babel-plugin-transform-flow-enums-0.0.2.tgz 0ms (cache hit)
+npm http cache babel-plugin-react-native-web@https://registry.npmjs.org/babel-plugin-rea
+ct-native-web/-/babel-plugin-react-native-web-0.21.2.tgz 0ms (cache hit)
+npm http cache babel-plugin-react-compiler@https://registry.npmjs.org/babel-plugin-react
+-compiler/-/babel-plugin-react-compiler-1.0.0.tgz 0ms (cache hit)
+npm http cache babel-plugin-polyfill-regenerator@https://registry.npmjs.org/babel-plugin
+-polyfill-regenerator/-/babel-plugin-polyfill-regenerator-0.6.6.tgz 0ms (cache hit)
+npm http cache babel-plugin-polyfill-corejs3@https://registry.npmjs.org/babel-plugin-pol
+yfill-corejs3/-/babel-plugin-polyfill-corejs3-0.13.0.tgz 1ms (cache hit)
+npm http cache babel-plugin-polyfill-corejs2@https://registry.npmjs.org/babel-plugin-pol
+yfill-corejs2/-/babel-plugin-polyfill-corejs2-0.4.15.tgz 0ms (cache hit)
+npm http cache babel-plugin-jest-hoist@https://registry.npmjs.org/babel-plugin-jest-hois
+t/-/babel-plugin-jest-hoist-29.6.3.tgz 0ms (cache hit)
+npm http cache babel-plugin-istanbul@https://registry.npmjs.org/babel-plugin-istanbul/-/
+babel-plugin-istanbul-6.1.1.tgz 0ms (cache hit)
+npm http cache babel-jest@https://registry.npmjs.org/babel-jest/-/babel-jest-29.7.0.tgz 
+0ms (cache hit)
+npm http cache 
+async-limiter@https://registry.npmjs.org/async-limiter/-/async-limiter-1.0.1.tgz 0ms 
+(cache hit)
+npm http cache asap@https://registry.npmjs.org/asap/-/asap-2.0.6.tgz 0ms (cache hit)
+npm http cache 
+array-timsort@https://registry.npmjs.org/array-timsort/-/array-timsort-1.0.3.tgz 0ms 
+(cache hit)
+npm http cache argparse@https://registry.npmjs.org/argparse/-/argparse-2.0.1.tgz 1ms 
+(cache hit)
+npm http cache arg@https://registry.npmjs.org/arg/-/arg-5.0.2.tgz 0ms (cache hit)
+npm http cache anymatch@https://registry.npmjs.org/anymatch/-/anymatch-3.1.3.tgz 0ms 
+(cache hit)
+npm http cache 
+any-promise@https://registry.npmjs.org/any-promise/-/any-promise-1.3.0.tgz 0ms (cache 
+hit)
+npm http cache 
+ansi-styles@https://registry.npmjs.org/ansi-styles/-/ansi-styles-4.3.0.tgz 0ms (cache 
+hit)
+npm http cache ansi-regex@https://registry.npmjs.org/ansi-regex/-/ansi-regex-5.0.1.tgz 
+0ms (cache hit)
+npm http cache 
+ansi-escapes@https://registry.npmjs.org/ansi-escapes/-/ansi-escapes-4.3.2.tgz 0ms 
+(cache hit)
+npm http cache anser@https://registry.npmjs.org/anser/-/anser-1.4.10.tgz 1ms (cache hit)
+npm http cache ajv@https://registry.npmjs.org/ajv/-/ajv-8.18.0.tgz 0ms (cache hit)
+npm http cache agent-base@https://registry.npmjs.org/agent-base/-/agent-base-7.1.4.tgz 
+0ms (cache hit)
+npm http cache acorn@https://registry.npmjs.org/acorn/-/acorn-8.16.0.tgz 0ms (cache hit)
+npm http cache accepts@https://registry.npmjs.org/accepts/-/accepts-1.3.8.tgz 0ms 
+(cache hit)
+npm http cache abort-controller@https://registry.npmjs.org/abort-controller/-/abort-cont
+roller-3.0.0.tgz 1ms (cache hit)
+npm http cache 
+@xmldom/xmldom@https://registry.npmjs.org/@xmldom/xmldom/-/xmldom-0.8.11.tgz 0ms (cache 
+hit)
+npm http cache @urql/exchange-retry@https://registry.npmjs.org/@urql/exchange-retry/-/ex
+change-retry-1.3.2.tgz 0ms (cache hit)
+npm http cache @urql/core@https://registry.npmjs.org/@urql/core/-/core-5.2.0.tgz 0ms 
+(cache hit)
+npm http cache @ungap/structured-clone@https://registry.npmjs.org/@ungap/structured-clon
+e/-/structured-clone-1.3.0.tgz 0ms (cache hit)
+npm http cache @types/yargs-parser@https://registry.npmjs.org/@types/yargs-parser/-/yarg
+s-parser-21.0.3.tgz 1ms (cache hit)
+npm http cache @types/yargs@https://registry.npmjs.org/@types/yargs/-/yargs-17.0.35.tgz 
+0ms (cache hit)
+npm http cache @types/stack-utils@https://registry.npmjs.org/@types/stack-utils/-/stack-
+utils-2.0.3.tgz 0ms (cache hit)
+npm http cache @types/node@https://registry.npmjs.org/@types/node/-/node-18.19.130.tgz 
+0ms (cache hit)
+npm http cache @types/istanbul-lib-report@https://registry.npmjs.org/@types/istanbul-lib
+-report/-/istanbul-lib-report-3.0.3.tgz 0ms (cache hit)
+npm http cache @types/istanbul-reports@https://registry.npmjs.org/@types/istanbul-report
+s/-/istanbul-reports-3.0.4.tgz 0ms (cache hit)
+npm http cache @types/istanbul-lib-coverage@https://registry.npmjs.org/@types/istanbul-l
+ib-coverage/-/istanbul-lib-coverage-2.0.6.tgz 0ms (cache hit)
+npm http cache @types/graceful-fs@https://registry.npmjs.org/@types/graceful-fs/-/gracef
+ul-fs-4.1.9.tgz 0ms (cache hit)
+npm http cache 
+@types/hammerjs@https://registry.npmjs.org/@types/hammerjs/-/hammerjs-2.0.46.tgz 0ms 
+(cache hit)
+npm http cache @types/babel__traverse@https://registry.npmjs.org/@types/babel__traverse/
+-/babel__traverse-7.28.0.tgz 0ms (cache hit)
+npm http cache @types/babel__template@https://registry.npmjs.org/@types/babel__template/
+-/babel__template-7.4.4.tgz 0ms (cache hit)
+npm http cache @types/babel__generator@https://registry.npmjs.org/@types/babel__generato
+r/-/babel__generator-7.27.0.tgz 0ms (cache hit)
+npm http cache @types/babel__core@https://registry.npmjs.org/@types/babel__core/-/babel_
+_core-7.20.5.tgz 0ms (cache hit)
+npm http cache @sinonjs/fake-timers@https://registry.npmjs.org/@sinonjs/fake-timers/-/fa
+ke-timers-10.3.0.tgz 0ms (cache hit)
+npm http cache 
+@sinclair/typebox@https://registry.npmjs.org/@sinclair/typebox/-/typebox-0.27.10.tgz 
+0ms (cache hit)
+npm http cache @react-navigation/stack@https://registry.npmjs.org/@react-navigation/stac
+k/-/stack-7.8.4.tgz 0ms (cache hit)
+npm http cache @react-navigation/routers@https://registry.npmjs.org/@react-navigation/ro
+uters/-/routers-7.5.3.tgz 0ms (cache hit)
+npm http cache @react-navigation/native@https://registry.npmjs.org/@react-navigation/nat
+ive/-/native-7.1.33.tgz 0ms (cache hit)
+npm http cache @react-navigation/elements@https://registry.npmjs.org/@react-navigation/e
+lements/-/elements-2.9.10.tgz 0ms (cache hit)
+npm http cache 
+@sinonjs/commons@https://registry.npmjs.org/@sinonjs/commons/-/commons-3.0.1.tgz 0ms 
+(cache hit)
+npm http cache @react-navigation/drawer@https://registry.npmjs.org/@react-navigation/dra
+wer/-/drawer-7.9.4.tgz 0ms (cache hit)
+npm http cache @react-navigation/core@https://registry.npmjs.org/@react-navigation/core/
+-/core-7.16.1.tgz 0ms (cache hit)
+npm http cache @react-navigation/bottom-tabs@https://registry.npmjs.org/@react-navigatio
+n/bottom-tabs/-/bottom-tabs-7.15.5.tgz 0ms (cache hit)
+npm http cache @react-native/normalize-colors@https://registry.npmjs.org/@react-native/n
+ormalize-colors/-/normalize-colors-0.81.5.tgz 0ms (cache hit)
+npm http cache @react-native/dev-middleware@https://registry.npmjs.org/@react-native/dev
+-middleware/-/dev-middleware-0.81.5.tgz 0ms (cache hit)
+npm http cache @react-native/debugger-frontend@https://registry.npmjs.org/@react-native/
+debugger-frontend/-/debugger-frontend-0.81.5.tgz 0ms (cache hit)
+npm http cache @react-native/codegen@https://registry.npmjs.org/@react-native/codegen/-/
+codegen-0.81.5.tgz 0ms (cache hit)
+npm http cache @react-native/babel-preset@https://registry.npmjs.org/@react-native/babel
+-preset/-/babel-preset-0.81.5.tgz 0ms (cache hit)
+npm http cache @react-native/babel-plugin-codegen@https://registry.npmjs.org/@react-nati
+ve/babel-plugin-codegen/-/babel-plugin-codegen-0.81.5.tgz 0ms (cache hit)
+npm http cache 
+@nodelib/fs.walk@https://registry.npmjs.org/@nodelib/fs.walk/-/fs.walk-1.2.8.tgz 0ms 
+(cache hit)
+npm http cache 
+@nodelib/fs.stat@https://registry.npmjs.org/@nodelib/fs.stat/-/fs.stat-2.0.5.tgz 0ms 
+(cache hit)
+npm http cache @nodelib/fs.scandir@https://registry.npmjs.org/@nodelib/fs.scandir/-/fs.s
+candir-2.1.5.tgz 0ms (cache hit)
+npm http cache @jridgewell/trace-mapping@https://registry.npmjs.org/@jridgewell/trace-ma
+pping/-/trace-mapping-0.3.31.tgz 0ms (cache hit)
+npm http cache @jridgewell/sourcemap-codec@https://registry.npmjs.org/@jridgewell/source
+map-codec/-/sourcemap-codec-1.5.5.tgz 0ms (cache hit)
+npm http cache @jridgewell/source-map@https://registry.npmjs.org/@jridgewell/source-map/
+-/source-map-0.3.11.tgz 0ms (cache hit)
+npm http cache @jridgewell/resolve-uri@https://registry.npmjs.org/@jridgewell/resolve-ur
+i/-/resolve-uri-3.1.2.tgz 0ms (cache hit)
+npm http cache @jridgewell/remapping@https://registry.npmjs.org/@jridgewell/remapping/-/
+remapping-2.3.5.tgz 0ms (cache hit)
+npm http cache @jridgewell/gen-mapping@https://registry.npmjs.org/@jridgewell/gen-mappin
+g/-/gen-mapping-0.3.13.tgz 0ms (cache hit)
+npm http cache @jest/types@https://registry.npmjs.org/@jest/types/-/types-29.6.3.tgz 
+0ms (cache hit)
+npm http cache 
+@jest/transform@https://registry.npmjs.org/@jest/transform/-/transform-29.7.0.tgz 0ms 
+(cache hit)
+npm http cache 
+@jest/schemas@https://registry.npmjs.org/@jest/schemas/-/schemas-29.6.3.tgz 0ms (cache 
+hit)
+npm http cache 
+@jest/fake-timers@https://registry.npmjs.org/@jest/fake-timers/-/fake-timers-29.7.0.tgz 
+0ms (cache hit)
+npm http cache 
+@jest/environment@https://registry.npmjs.org/@jest/environment/-/environment-29.7.0.tgz 
+0ms (cache hit)
+npm http cache @jest/create-cache-key-function@https://registry.npmjs.org/@jest/create-c
+ache-key-function/-/create-cache-key-function-29.7.0.tgz 0ms (cache hit)
+npm http cache 
+@istanbuljs/schema@https://registry.npmjs.org/@istanbuljs/schema/-/schema-0.1.3.tgz 0ms 
+(cache hit)
+npm http cache @istanbuljs/load-nyc-config@https://registry.npmjs.org/@istanbuljs/load-n
+yc-config/-/load-nyc-config-1.1.0.tgz 0ms (cache hit)
+npm http cache @isaacs/fs-minipass@https://registry.npmjs.org/@isaacs/fs-minipass/-/fs-m
+inipass-4.0.1.tgz 0ms (cache hit)
+npm http cache 
+@isaacs/ttlcache@https://registry.npmjs.org/@isaacs/ttlcache/-/ttlcache-1.4.1.tgz 0ms 
+(cache hit)
+npm http cache 
+@expo/xcpretty@https://registry.npmjs.org/@expo/xcpretty/-/xcpretty-4.4.1.tgz 0ms 
+(cache hit)
+npm http cache 
+@expo/ws-tunnel@https://registry.npmjs.org/@expo/ws-tunnel/-/ws-tunnel-1.0.6.tgz 0ms 
+(cache hit)
+npm http cache 
+@expo/sudo-prompt@https://registry.npmjs.org/@expo/sudo-prompt/-/sudo-prompt-9.3.2.tgz 
+0ms (cache hit)
+npm http cache 
+@expo/spawn-async@https://registry.npmjs.org/@expo/spawn-async/-/spawn-async-1.7.2.tgz 
+0ms (cache hit)
+npm http cache @expo/sdk-runtime-versions@https://registry.npmjs.org/@expo/sdk-runtime-v
+ersions/-/sdk-runtime-versions-1.0.0.tgz 0ms (cache hit)
+npm http cache @expo/schema-utils@https://registry.npmjs.org/@expo/schema-utils/-/schema
+-utils-0.1.8.tgz 0ms (cache hit)
+npm http cache @expo/prebuild-config@https://registry.npmjs.org/@expo/prebuild-config/-/
+prebuild-config-54.0.8.tgz 0ms (cache hit)
+npm http cache @expo/plist@https://registry.npmjs.org/@expo/plist/-/plist-0.4.8.tgz 0ms 
+(cache hit)
+npm http cache @expo/package-manager@https://registry.npmjs.org/@expo/package-manager/-/
+package-manager-1.10.3.tgz 0ms (cache hit)
+npm http cache 
+@expo/osascript@https://registry.npmjs.org/@expo/osascript/-/osascript-2.4.2.tgz 0ms 
+(cache hit)
+npm http cache @expo/metro-config@https://registry.npmjs.org/@expo/metro-config/-/metro-
+config-54.0.14.tgz 0ms (cache hit)
+npm http cache @expo/metro@https://registry.npmjs.org/@expo/metro/-/metro-54.2.0.tgz 
+0ms (cache hit)
+npm http cache 
+@expo/json-file@https://registry.npmjs.org/@expo/json-file/-/json-file-10.0.12.tgz 0ms 
+(cache hit)
+npm http cache 
+@expo/image-utils@https://registry.npmjs.org/@expo/image-utils/-/image-utils-0.8.12.tgz 
+0ms (cache hit)
+npm http cache 
+@expo/fingerprint@https://registry.npmjs.org/@expo/fingerprint/-/fingerprint-0.15.4.tgz 
+0ms (cache hit)
+npm http cache @expo/env@https://registry.npmjs.org/@expo/env/-/env-2.0.11.tgz 0ms 
+(cache hit)
+npm http cache 
+@expo/devtools@https://registry.npmjs.org/@expo/devtools/-/devtools-0.1.8.tgz 0ms 
+(cache hit)
+npm http cache 
+@expo/devcert@https://registry.npmjs.org/@expo/devcert/-/devcert-1.2.1.tgz 0ms (cache 
+hit)
+npm http cache @expo/config-types@https://registry.npmjs.org/@expo/config-types/-/config
+-types-54.0.10.tgz 0ms (cache hit)
+npm http cache @expo/config-plugins@https://registry.npmjs.org/@expo/config-plugins/-/co
+nfig-plugins-54.0.4.tgz 0ms (cache hit)
+npm http cache 
+@expo/config@https://registry.npmjs.org/@expo/config/-/config-12.0.13.tgz 0ms (cache 
+hit)
+npm http cache @expo/code-signing-certificates@https://registry.npmjs.org/@expo/code-sig
+ning-certificates/-/code-signing-certificates-0.0.6.tgz 0ms (cache hit)
+npm http cache @expo/cli@https://registry.npmjs.org/@expo/cli/-/cli-54.0.23.tgz 0ms 
+(cache hit)
+npm http cache @expo-google-fonts/dm-sans@https://registry.npmjs.org/@expo-google-fonts/
+dm-sans/-/dm-sans-0.2.3.tgz 0ms (cache hit)
+npm http cache @expo-google-fonts/cormorant-garamond@https://registry.npmjs.org/@expo-go
+ogle-fonts/cormorant-garamond/-/cormorant-garamond-0.2.3.tgz 0ms (cache hit)
+npm http cache @epic-web/invariant@https://registry.npmjs.org/@epic-web/invariant/-/inva
+riant-1.0.0.tgz 0ms (cache hit)
+npm http cache 
+@egjs/hammerjs@https://registry.npmjs.org/@egjs/hammerjs/-/hammerjs-2.0.17.tgz 0ms 
+(cache hit)
+npm http cache @babel/types@https://registry.npmjs.org/@babel/types/-/types-7.29.0.tgz 
+0ms (cache hit)
+npm http cache @babel/traverse--for-generate-function-map@https://registry.npmjs.org/@ba
+bel/traverse/-/traverse-7.29.0.tgz 0ms (cache hit)
+npm http cache 
+@babel/traverse@https://registry.npmjs.org/@babel/traverse/-/traverse-7.29.0.tgz 0ms 
+(cache hit)
+npm http cache 
+@babel/template@https://registry.npmjs.org/@babel/template/-/template-7.28.6.tgz 0ms 
+(cache hit)
+npm http cache 
+@babel/runtime@https://registry.npmjs.org/@babel/runtime/-/runtime-7.28.6.tgz 0ms 
+(cache hit)
+npm http cache @babel/preset-typescript@https://registry.npmjs.org/@babel/preset-typescr
+ipt/-/preset-typescript-7.28.5.tgz 0ms (cache hit)
+npm http cache @babel/preset-react@https://registry.npmjs.org/@babel/preset-react/-/pres
+et-react-7.28.5.tgz 0ms (cache hit)
+npm http cache @babel/plugin-transform-unicode-regex@https://registry.npmjs.org/@babel/p
+lugin-transform-unicode-regex/-/plugin-transform-unicode-regex-7.27.1.tgz 0ms (cache 
+hit)
+npm http cache @babel/plugin-transform-typescript@https://registry.npmjs.org/@babel/plug
+in-transform-typescript/-/plugin-transform-typescript-7.28.6.tgz 0ms (cache hit)
+npm http cache @babel/plugin-transform-sticky-regex@https://registry.npmjs.org/@babel/pl
+ugin-transform-sticky-regex/-/plugin-transform-sticky-regex-7.27.1.tgz 0ms (cache hit)
+npm http cache @babel/plugin-transform-spread@https://registry.npmjs.org/@babel/plugin-t
+ransform-spread/-/plugin-transform-spread-7.28.6.tgz 0ms (cache hit)
+npm http cache @babel/plugin-transform-shorthand-properties@https://registry.npmjs.org/@
+babel/plugin-transform-shorthand-properties/-/plugin-transform-shorthand-properties-7.27
+.1.tgz 0ms (cache hit)
+npm http cache @babel/plugin-transform-runtime@https://registry.npmjs.org/@babel/plugin-
+transform-runtime/-/plugin-transform-runtime-7.29.0.tgz 0ms (cache hit)
+npm http cache @babel/plugin-transform-regenerator@https://registry.npmjs.org/@babel/plu
+gin-transform-regenerator/-/plugin-transform-regenerator-7.29.0.tgz 0ms (cache hit)
+npm http cache @babel/plugin-transform-react-pure-annotations@https://registry.npmjs.org
+/@babel/plugin-transform-react-pure-annotations/-/plugin-transform-react-pure-annotation
+s-7.27.1.tgz 0ms (cache hit)
+npm http cache @babel/plugin-transform-react-jsx-source@https://registry.npmjs.org/@babe
+l/plugin-transform-react-jsx-source/-/plugin-transform-react-jsx-source-7.27.1.tgz 0ms 
+(cache hit)
+npm http cache @babel/plugin-transform-react-jsx-self@https://registry.npmjs.org/@babel/
+plugin-transform-react-jsx-self/-/plugin-transform-react-jsx-self-7.27.1.tgz 0ms (cache 
+hit)
+npm http cache @babel/plugin-transform-react-jsx-development@https://registry.npmjs.org/
+@babel/plugin-transform-react-jsx-development/-/plugin-transform-react-jsx-development-7
+.27.1.tgz 0ms (cache hit)
+npm http cache @babel/plugin-transform-react-jsx@https://registry.npmjs.org/@babel/plugi
+n-transform-react-jsx/-/plugin-transform-react-jsx-7.28.6.tgz 0ms (cache hit)
+npm http cache @babel/plugin-transform-react-display-name@https://registry.npmjs.org/@ba
+bel/plugin-transform-react-display-name/-/plugin-transform-react-display-name-7.28.0.tgz
+ 0ms (cache hit)
+npm http cache @babel/plugin-transform-private-property-in-object@https://registry.npmjs
+.org/@babel/plugin-transform-private-property-in-object/-/plugin-transform-private-prope
+rty-in-object-7.28.6.tgz 0ms (cache hit)
+npm http cache @babel/plugin-transform-private-methods@https://registry.npmjs.org/@babel
+/plugin-transform-private-methods/-/plugin-transform-private-methods-7.28.6.tgz 0ms 
+(cache hit)
+npm http cache @babel/plugin-transform-parameters@https://registry.npmjs.org/@babel/plug
+in-transform-parameters/-/plugin-transform-parameters-7.27.7.tgz 0ms (cache hit)
+npm http cache @babel/plugin-transform-optional-chaining@https://registry.npmjs.org/@bab
+el/plugin-transform-optional-chaining/-/plugin-transform-optional-chaining-7.28.6.tgz 
+0ms (cache hit)
+npm http cache @babel/plugin-transform-optional-catch-binding@https://registry.npmjs.org
+/@babel/plugin-transform-optional-catch-binding/-/plugin-transform-optional-catch-bindin
+g-7.28.6.tgz 0ms (cache hit)
+npm http cache @babel/plugin-transform-object-rest-spread@https://registry.npmjs.org/@ba
+bel/plugin-transform-object-rest-spread/-/plugin-transform-object-rest-spread-7.28.6.tgz
+ 0ms (cache hit)
+npm http cache @babel/plugin-transform-numeric-separator@https://registry.npmjs.org/@bab
+el/plugin-transform-numeric-separator/-/plugin-transform-numeric-separator-7.28.6.tgz 
+0ms (cache hit)
+npm http cache @babel/plugin-transform-named-capturing-groups-regex@https://registry.npm
+js.org/@babel/plugin-transform-named-capturing-groups-regex/-/plugin-transform-named-cap
+turing-groups-regex-7.29.0.tgz 0ms (cache hit)
+npm http cache @babel/plugin-transform-nullish-coalescing-operator@https://registry.npmj
+s.org/@babel/plugin-transform-nullish-coalescing-operator/-/plugin-transform-nullish-coa
+lescing-operator-7.28.6.tgz 0ms (cache hit)
+npm http cache @babel/plugin-transform-modules-commonjs@https://registry.npmjs.org/@babe
+l/plugin-transform-modules-commonjs/-/plugin-transform-modules-commonjs-7.28.6.tgz 0ms 
+(cache hit)
+npm http cache @babel/plugin-transform-logical-assignment-operators@https://registry.npm
+js.org/@babel/plugin-transform-logical-assignment-operators/-/plugin-transform-logical-a
+ssignment-operators-7.28.6.tgz 0ms (cache hit)
+npm http cache @babel/plugin-transform-literals@https://registry.npmjs.org/@babel/plugin
+-transform-literals/-/plugin-transform-literals-7.27.1.tgz 0ms (cache hit)
+npm http cache @babel/plugin-transform-function-name@https://registry.npmjs.org/@babel/p
+lugin-transform-function-name/-/plugin-transform-function-name-7.27.1.tgz 0ms (cache 
+hit)
+npm http cache @babel/plugin-transform-for-of@https://registry.npmjs.org/@babel/plugin-t
+ransform-for-of/-/plugin-transform-for-of-7.27.1.tgz 0ms (cache hit)
+npm http cache @babel/plugin-transform-flow-strip-types@https://registry.npmjs.org/@babe
+l/plugin-transform-flow-strip-types/-/plugin-transform-flow-strip-types-7.27.1.tgz 0ms 
+(cache hit)
+npm http cache @babel/plugin-transform-export-namespace-from@https://registry.npmjs.org/
+@babel/plugin-transform-export-namespace-from/-/plugin-transform-export-namespace-from-7
+.27.1.tgz 0ms (cache hit)
+npm http cache @babel/plugin-transform-destructuring@https://registry.npmjs.org/@babel/p
+lugin-transform-destructuring/-/plugin-transform-destructuring-7.28.5.tgz 0ms (cache 
+hit)
+npm http cache @babel/plugin-transform-computed-properties@https://registry.npmjs.org/@b
+abel/plugin-transform-computed-properties/-/plugin-transform-computed-properties-7.28.6.
+tgz 0ms (cache hit)
+npm http cache @babel/plugin-transform-classes@https://registry.npmjs.org/@babel/plugin-
+transform-classes/-/plugin-transform-classes-7.28.6.tgz 0ms (cache hit)
+npm http cache @babel/plugin-transform-class-static-block@https://registry.npmjs.org/@ba
+bel/plugin-transform-class-static-block/-/plugin-transform-class-static-block-7.28.6.tgz
+ 0ms (cache hit)
+npm http cache @babel/plugin-transform-class-properties@https://registry.npmjs.org/@babe
+l/plugin-transform-class-properties/-/plugin-transform-class-properties-7.28.6.tgz 0ms 
+(cache hit)
+npm http cache @babel/plugin-transform-async-to-generator@https://registry.npmjs.org/@ba
+bel/plugin-transform-async-to-generator/-/plugin-transform-async-to-generator-7.28.6.tgz
+ 0ms (cache hit)
+npm http cache @babel/plugin-transform-block-scoping@https://registry.npmjs.org/@babel/p
+lugin-transform-block-scoping/-/plugin-transform-block-scoping-7.28.6.tgz 0ms (cache 
+hit)
+npm http cache @babel/plugin-transform-async-generator-functions@https://registry.npmjs.
+org/@babel/plugin-transform-async-generator-functions/-/plugin-transform-async-generator
+-functions-7.29.0.tgz 0ms (cache hit)
+npm http cache @babel/plugin-transform-arrow-functions@https://registry.npmjs.org/@babel
+/plugin-transform-arrow-functions/-/plugin-transform-arrow-functions-7.27.1.tgz 0ms 
+(cache hit)
+npm http cache @babel/plugin-syntax-typescript@https://registry.npmjs.org/@babel/plugin-
+syntax-typescript/-/plugin-syntax-typescript-7.28.6.tgz 0ms (cache hit)
+npm http cache @babel/plugin-syntax-private-property-in-object@https://registry.npmjs.or
+g/@babel/plugin-syntax-private-property-in-object/-/plugin-syntax-private-property-in-ob
+ject-7.14.5.tgz 0ms (cache hit)
+npm http cache @babel/plugin-syntax-top-level-await@https://registry.npmjs.org/@babel/pl
+ugin-syntax-top-level-await/-/plugin-syntax-top-level-await-7.14.5.tgz 0ms (cache hit)
+npm http cache @babel/plugin-syntax-optional-chaining@https://registry.npmjs.org/@babel/
+plugin-syntax-optional-chaining/-/plugin-syntax-optional-chaining-7.8.3.tgz 0ms (cache 
+hit)
+npm http cache @babel/plugin-syntax-optional-catch-binding@https://registry.npmjs.org/@b
+abel/plugin-syntax-optional-catch-binding/-/plugin-syntax-optional-catch-binding-7.8.3.t
+gz 1ms (cache hit)
+npm http cache @babel/plugin-syntax-object-rest-spread@https://registry.npmjs.org/@babel
+/plugin-syntax-object-rest-spread/-/plugin-syntax-object-rest-spread-7.8.3.tgz 0ms 
+(cache hit)
+npm http cache @babel/plugin-syntax-numeric-separator@https://registry.npmjs.org/@babel/
+plugin-syntax-numeric-separator/-/plugin-syntax-numeric-separator-7.10.4.tgz 1ms (cache 
+hit)
+npm http cache @babel/plugin-syntax-nullish-coalescing-operator@https://registry.npmjs.o
+rg/@babel/plugin-syntax-nullish-coalescing-operator/-/plugin-syntax-nullish-coalescing-o
+perator-7.8.3.tgz 0ms (cache hit)
+npm http cache @babel/plugin-syntax-logical-assignment-operators@https://registry.npmjs.
+org/@babel/plugin-syntax-logical-assignment-operators/-/plugin-syntax-logical-assignment
+-operators-7.10.4.tgz 0ms (cache hit)
+npm http cache @babel/plugin-syntax-jsx@https://registry.npmjs.org/@babel/plugin-syntax-
+jsx/-/plugin-syntax-jsx-7.28.6.tgz 0ms (cache hit)
+npm http cache @babel/plugin-syntax-json-strings@https://registry.npmjs.org/@babel/plugi
+n-syntax-json-strings/-/plugin-syntax-json-strings-7.8.3.tgz 0ms (cache hit)
+npm http cache @babel/plugin-syntax-import-meta@https://registry.npmjs.org/@babel/plugin
+-syntax-import-meta/-/plugin-syntax-import-meta-7.10.4.tgz 0ms (cache hit)
+npm http cache @babel/plugin-syntax-import-attributes@https://registry.npmjs.org/@babel/
+plugin-syntax-import-attributes/-/plugin-syntax-import-attributes-7.28.6.tgz 0ms (cache 
+hit)
+npm http cache @babel/plugin-syntax-flow@https://registry.npmjs.org/@babel/plugin-syntax
+-flow/-/plugin-syntax-flow-7.28.6.tgz 1ms (cache hit)
+npm http cache @babel/plugin-syntax-export-default-from@https://registry.npmjs.org/@babe
+l/plugin-syntax-export-default-from/-/plugin-syntax-export-default-from-7.28.6.tgz 0ms 
+(cache hit)
+npm http cache @babel/plugin-syntax-dynamic-import@https://registry.npmjs.org/@babel/plu
+gin-syntax-dynamic-import/-/plugin-syntax-dynamic-import-7.8.3.tgz 0ms (cache hit)
+npm http cache @babel/plugin-syntax-decorators@https://registry.npmjs.org/@babel/plugin-
+syntax-decorators/-/plugin-syntax-decorators-7.28.6.tgz 0ms (cache hit)
+npm http cache @babel/plugin-syntax-class-static-block@https://registry.npmjs.org/@babel
+/plugin-syntax-class-static-block/-/plugin-syntax-class-static-block-7.14.5.tgz 0ms 
+(cache hit)
+npm http cache @babel/plugin-syntax-class-properties@https://registry.npmjs.org/@babel/p
+lugin-syntax-class-properties/-/plugin-syntax-class-properties-7.12.13.tgz 0ms (cache 
+hit)
+npm http cache @babel/plugin-syntax-bigint@https://registry.npmjs.org/@babel/plugin-synt
+ax-bigint/-/plugin-syntax-bigint-7.8.3.tgz 0ms (cache hit)
+npm http cache @babel/plugin-syntax-async-generators@https://registry.npmjs.org/@babel/p
+lugin-syntax-async-generators/-/plugin-syntax-async-generators-7.8.4.tgz 0ms (cache hit)
+npm http cache @babel/plugin-proposal-export-default-from@https://registry.npmjs.org/@ba
+bel/plugin-proposal-export-default-from/-/plugin-proposal-export-default-from-7.27.1.tgz
+ 0ms (cache hit)
+npm http cache @babel/plugin-proposal-decorators@https://registry.npmjs.org/@babel/plugi
+n-proposal-decorators/-/plugin-proposal-decorators-7.29.0.tgz 0ms (cache hit)
+npm http cache 
+@babel/parser@https://registry.npmjs.org/@babel/parser/-/parser-7.29.0.tgz 1ms (cache 
+hit)
+npm http cache 
+@babel/highlight@https://registry.npmjs.org/@babel/highlight/-/highlight-7.25.9.tgz 0ms 
+(cache hit)
+npm http cache 
+@babel/helpers@https://registry.npmjs.org/@babel/helpers/-/helpers-7.28.6.tgz 0ms 
+(cache hit)
+npm http cache @babel/helper-wrap-function@https://registry.npmjs.org/@babel/helper-wrap
+-function/-/helper-wrap-function-7.28.6.tgz 0ms (cache hit)
+npm http cache @babel/helper-validator-option@https://registry.npmjs.org/@babel/helper-v
+alidator-option/-/helper-validator-option-7.27.1.tgz 0ms (cache hit)
+npm http cache @babel/helper-validator-identifier@https://registry.npmjs.org/@babel/help
+er-validator-identifier/-/helper-validator-identifier-7.28.5.tgz 0ms (cache hit)
+npm http cache @babel/helper-string-parser@https://registry.npmjs.org/@babel/helper-stri
+ng-parser/-/helper-string-parser-7.27.1.tgz 0ms (cache hit)
+npm http cache @babel/helper-skip-transparent-expression-wrappers@https://registry.npmjs
+.org/@babel/helper-skip-transparent-expression-wrappers/-/helper-skip-transparent-expres
+sion-wrappers-7.27.1.tgz 0ms (cache hit)
+npm http cache @babel/helper-replace-supers@https://registry.npmjs.org/@babel/helper-rep
+lace-supers/-/helper-replace-supers-7.28.6.tgz 0ms (cache hit)
+npm http cache @babel/helper-remap-async-to-generator@https://registry.npmjs.org/@babel/
+helper-remap-async-to-generator/-/helper-remap-async-to-generator-7.27.1.tgz 0ms (cache 
+hit)
+npm http cache @babel/helper-plugin-utils@https://registry.npmjs.org/@babel/helper-plugi
+n-utils/-/helper-plugin-utils-7.28.6.tgz 0ms (cache hit)
+npm http cache @babel/helper-optimise-call-expression@https://registry.npmjs.org/@babel/
+helper-optimise-call-expression/-/helper-optimise-call-expression-7.27.1.tgz 0ms (cache 
+hit)
+npm http cache @babel/helper-module-transforms@https://registry.npmjs.org/@babel/helper-
+module-transforms/-/helper-module-transforms-7.28.6.tgz 0ms (cache hit)
+npm http cache @babel/helper-module-imports@https://registry.npmjs.org/@babel/helper-mod
+ule-imports/-/helper-module-imports-7.28.6.tgz 0ms (cache hit)
+npm http cache @babel/helper-member-expression-to-functions@https://registry.npmjs.org/@
+babel/helper-member-expression-to-functions/-/helper-member-expression-to-functions-7.28
+.5.tgz 0ms (cache hit)
+npm http cache @babel/helper-globals@https://registry.npmjs.org/@babel/helper-globals/-/
+helper-globals-7.28.0.tgz 0ms (cache hit)
+npm http cache @babel/helper-create-regexp-features-plugin@https://registry.npmjs.org/@b
+abel/helper-create-regexp-features-plugin/-/helper-create-regexp-features-plugin-7.28.5.
+tgz 1ms (cache hit)
+npm http cache @babel/helper-define-polyfill-provider@https://registry.npmjs.org/@babel/
+helper-define-polyfill-provider/-/helper-define-polyfill-provider-0.6.6.tgz 0ms (cache 
+hit)
+npm http cache @babel/helper-create-class-features-plugin@https://registry.npmjs.org/@ba
+bel/helper-create-class-features-plugin/-/helper-create-class-features-plugin-7.28.6.tgz
+ 0ms (cache hit)
+npm http cache @babel/helper-compilation-targets@https://registry.npmjs.org/@babel/helpe
+r-compilation-targets/-/helper-compilation-targets-7.28.6.tgz 1ms (cache hit)
+npm http cache @babel/helper-annotate-as-pure@https://registry.npmjs.org/@babel/helper-a
+nnotate-as-pure/-/helper-annotate-as-pure-7.27.3.tgz 0ms (cache hit)
+npm http cache @babel/core@https://registry.npmjs.org/@babel/core/-/core-7.29.0.tgz 0ms 
+(cache hit)
+npm http cache 
+@babel/generator@https://registry.npmjs.org/@babel/generator/-/generator-7.29.1.tgz 0ms 
+(cache hit)
+npm http cache @babel/compat-data@https://registry.npmjs.org/@babel/compat-data/-/compat
+-data-7.29.0.tgz 0ms (cache hit)
+npm http cache 
+@babel/code-frame@https://registry.npmjs.org/@babel/code-frame/-/code-frame-7.29.0.tgz 
+0ms (cache hit)
+npm http cache destroy@https://registry.npmjs.org/destroy/-/destroy-1.2.0.tgz 0ms 
+(cache hit)
+npm http cache @0no-co/graphql.web@https://registry.npmjs.org/@0no-co/graphql.web/-/grap
+hql.web-1.2.0.tgz 0ms (cache hit)
+npm http cache 
+@alloc/quick-lru@https://registry.npmjs.org/@alloc/quick-lru/-/quick-lru-5.2.0.tgz 0ms 
+(cache hit)
+npm http cache @radix-ui/react-slot@https://registry.npmjs.org/@radix-ui/react-slot/-/re
+act-slot-1.2.3.tgz 0ms (cache hit)
+npm http cache semver@https://registry.npmjs.org/semver/-/semver-7.7.4.tgz 0ms (cache 
+hit)
+npm http cache @radix-ui/react-slot@https://registry.npmjs.org/@radix-ui/react-slot/-/re
+act-slot-1.2.3.tgz 0ms (cache hit)
+npm http cache @radix-ui/react-slot@https://registry.npmjs.org/@radix-ui/react-slot/-/re
+act-slot-1.2.3.tgz 0ms (cache hit)
+npm http cache semver@https://registry.npmjs.org/semver/-/semver-7.7.2.tgz 0ms (cache 
+hit)
+npm http cache 
+brace-expansion@https://registry.npmjs.org/brace-expansion/-/brace-expansion-1.1.12.tgz 
+0ms (cache hit)
+npm http cache minimatch@https://registry.npmjs.org/minimatch/-/minimatch-3.1.5.tgz 0ms 
+(cache hit)
+npm http cache glob@https://registry.npmjs.org/glob/-/glob-7.2.3.tgz 0ms (cache hit)
+npm http cache ws@https://registry.npmjs.org/ws/-/ws-6.2.3.tgz 0ms (cache hit)
+npm http cache semver@https://registry.npmjs.org/semver/-/semver-7.7.4.tgz 0ms (cache 
+hit)
+npm http cache promise@https://registry.npmjs.org/promise/-/promise-8.3.0.tgz 0ms 
+(cache hit)
+npm http cache commander@https://registry.npmjs.org/commander/-/commander-12.1.0.tgz 
+0ms (cache hit)
+npm http cache semver@https://registry.npmjs.org/semver/-/semver-7.6.3.tgz 0ms (cache 
+hit)
+npm http cache semver@https://registry.npmjs.org/semver/-/semver-7.7.4.tgz 1ms (cache 
+hit)
+npm http cache xmlbuilder@https://registry.npmjs.org/xmlbuilder/-/xmlbuilder-11.0.1.tgz 
+0ms (cache hit)
+npm http cache strip-ansi@https://registry.npmjs.org/strip-ansi/-/strip-ansi-6.0.1.tgz 
+0ms (cache hit)
+npm http cache webidl-conversions@https://registry.npmjs.org/webidl-conversions/-/webidl
+-conversions-5.0.0.tgz 0ms (cache hit)
+npm http cache minimatch@https://registry.npmjs.org/minimatch/-/minimatch-3.1.5.tgz 0ms 
+(cache hit)
+npm http cache glob@https://registry.npmjs.org/glob/-/glob-7.2.3.tgz 0ms (cache hit)
+npm http cache 
+brace-expansion@https://registry.npmjs.org/brace-expansion/-/brace-expansion-1.1.12.tgz 
+0ms (cache hit)
+npm http cache commander@https://registry.npmjs.org/commander/-/commander-2.20.3.tgz 
+0ms (cache hit)
+npm http cache yallist@https://registry.npmjs.org/yallist/-/yallist-5.0.0.tgz 0ms 
+(cache hit)
+npm http cache 
+glob-parent@https://registry.npmjs.org/glob-parent/-/glob-parent-6.0.2.tgz 0ms (cache 
+hit)
+npm http cache commander@https://registry.npmjs.org/commander/-/commander-4.1.1.tgz 0ms 
+(cache hit)
+npm http cache ansi-regex@https://registry.npmjs.org/ansi-regex/-/ansi-regex-4.1.1.tgz 
+0ms (cache hit)
+npm http cache strip-ansi@https://registry.npmjs.org/strip-ansi/-/strip-ansi-6.0.1.tgz 
+0ms (cache hit)
+npm http cache escape-string-regexp@https://registry.npmjs.org/escape-string-regexp/-/es
+cape-string-regexp-2.0.0.tgz 0ms (cache hit)
+npm http cache source-map@https://registry.npmjs.org/source-map/-/source-map-0.6.1.tgz 
+0ms (cache hit)
+npm http cache 
+is-arrayish@https://registry.npmjs.org/is-arrayish/-/is-arrayish-0.3.4.tgz 0ms (cache 
+hit)
+npm http cache encodeurl@https://registry.npmjs.org/encodeurl/-/encodeurl-2.0.0.tgz 0ms 
+(cache hit)
+npm http cache 
+bplist-parser@https://registry.npmjs.org/bplist-parser/-/bplist-parser-0.3.1.tgz 0ms 
+(cache hit)
+npm http cache statuses@https://registry.npmjs.org/statuses/-/statuses-2.0.2.tgz 0ms 
+(cache hit)
+npm http cache 
+on-finished@https://registry.npmjs.org/on-finished/-/on-finished-2.4.1.tgz 0ms (cache 
+hit)
+npm http cache encodeurl@https://registry.npmjs.org/encodeurl/-/encodeurl-2.0.0.tgz 0ms 
+(cache hit)
+npm http cache debug@https://registry.npmjs.org/debug/-/debug-2.6.9.tgz 0ms (cache hit)
+npm http cache minimatch@https://registry.npmjs.org/minimatch/-/minimatch-3.1.5.tgz 0ms 
+(cache hit)
+npm http cache ms@https://registry.npmjs.org/ms/-/ms-2.0.0.tgz 0ms (cache hit)
+npm http cache glob@https://registry.npmjs.org/glob/-/glob-7.2.3.tgz 0ms (cache hit)
+npm http cache onetime@https://registry.npmjs.org/onetime/-/onetime-2.0.1.tgz 0ms 
+(cache hit)
+npm http cache mimic-fn@https://registry.npmjs.org/mimic-fn/-/mimic-fn-1.2.0.tgz 0ms 
+(cache hit)
+npm http cache picomatch@https://registry.npmjs.org/picomatch/-/picomatch-2.3.1.tgz 0ms 
+(cache hit)
+npm http cache pify@https://registry.npmjs.org/pify/-/pify-2.3.0.tgz 0ms (cache hit)
+npm http cache resolve@https://registry.npmjs.org/resolve/-/resolve-1.7.1.tgz 0ms 
+(cache hit)
+npm http cache semver@https://registry.npmjs.org/semver/-/semver-7.7.4.tgz 0ms (cache 
+hit)
+npm http cache lightningcss-win32-x64-msvc@https://registry.npmjs.org/lightningcss-win32
+-x64-msvc/-/lightningcss-win32-x64-msvc-1.27.0.tgz 0ms (cache hit)
+npm http cache 
+brace-expansion@https://registry.npmjs.org/brace-expansion/-/brace-expansion-1.1.12.tgz 
+1ms (cache hit)
+npm http cache react-is@https://registry.npmjs.org/react-is/-/react-is-18.3.1.tgz 0ms 
+(cache hit)
+npm http cache 
+lightningcss@https://registry.npmjs.org/lightningcss/-/lightningcss-1.27.0.tgz 0ms 
+(cache hit)
+npm http cache 
+ansi-styles@https://registry.npmjs.org/ansi-styles/-/ansi-styles-5.2.0.tgz 0ms (cache 
+hit)
+npm http cache lru-cache@https://registry.npmjs.org/lru-cache/-/lru-cache-11.2.6.tgz 
+0ms (cache hit)
+npm http cache p-limit@https://registry.npmjs.org/p-limit/-/p-limit-2.3.0.tgz 0ms 
+(cache hit)
+npm http cache 
+supports-color@https://registry.npmjs.org/supports-color/-/supports-color-5.5.0.tgz 0ms 
+(cache hit)
+npm http cache has-flag@https://registry.npmjs.org/has-flag/-/has-flag-3.0.0.tgz 0ms 
+(cache hit)
+npm http cache color-name@https://registry.npmjs.org/color-name/-/color-name-1.1.3.tgz 
+0ms (cache hit)
+npm http cache escape-string-regexp@https://registry.npmjs.org/escape-string-regexp/-/es
+cape-string-regexp-1.0.5.tgz 0ms (cache hit)
+npm http cache 
+color-convert@https://registry.npmjs.org/color-convert/-/color-convert-1.9.3.tgz 0ms 
+(cache hit)
+npm http cache chalk@https://registry.npmjs.org/chalk/-/chalk-2.4.2.tgz 0ms (cache hit)
+npm http cache semver@https://registry.npmjs.org/semver/-/semver-7.7.4.tgz 0ms (cache 
+hit)
+npm http cache 
+ansi-styles@https://registry.npmjs.org/ansi-styles/-/ansi-styles-3.2.1.tgz 0ms (cache 
+hit)
+npm http cache mime-db@https://registry.npmjs.org/mime-db/-/mime-db-1.52.0.tgz 0ms 
+(cache hit)
+npm http cache picomatch@https://registry.npmjs.org/picomatch/-/picomatch-2.3.1.tgz 0ms 
+(cache hit)
+npm http cache source-map@https://registry.npmjs.org/source-map/-/source-map-0.5.7.tgz 
+0ms (cache hit)
+npm http cache source-map@https://registry.npmjs.org/source-map/-/source-map-0.5.7.tgz 
+0ms (cache hit)
+npm http cache 
+hermes-parser@https://registry.npmjs.org/hermes-parser/-/hermes-parser-0.32.0.tgz 0ms 
+(cache hit)
+npm http cache 
+hermes-estree@https://registry.npmjs.org/hermes-estree/-/hermes-estree-0.32.0.tgz 0ms 
+(cache hit)
+npm http cache source-map@https://registry.npmjs.org/source-map/-/source-map-0.5.7.tgz 
+0ms (cache hit)
+npm http cache 
+hermes-parser@https://registry.npmjs.org/hermes-parser/-/hermes-parser-0.32.0.tgz 0ms 
+(cache hit)
+npm http cache 
+hermes-estree@https://registry.npmjs.org/hermes-estree/-/hermes-estree-0.32.0.tgz 0ms 
+(cache hit)
+npm http cache ci-info@https://registry.npmjs.org/ci-info/-/ci-info-2.0.0.tgz 0ms 
+(cache hit)
+npm http cache 
+supports-color@https://registry.npmjs.org/supports-color/-/supports-color-5.5.0.tgz 0ms 
+(cache hit)
+npm http cache has-flag@https://registry.npmjs.org/has-flag/-/has-flag-3.0.0.tgz 0ms 
+(cache hit)
+npm http cache color-name@https://registry.npmjs.org/color-name/-/color-name-1.1.3.tgz 
+0ms (cache hit)
+npm http cache escape-string-regexp@https://registry.npmjs.org/escape-string-regexp/-/es
+cape-string-regexp-1.0.5.tgz 0ms (cache hit)
+npm http cache 
+color-convert@https://registry.npmjs.org/color-convert/-/color-convert-1.9.3.tgz 0ms 
+(cache hit)
+npm http cache chalk@https://registry.npmjs.org/chalk/-/chalk-2.4.2.tgz 0ms (cache hit)
+npm http cache 
+ansi-styles@https://registry.npmjs.org/ansi-styles/-/ansi-styles-3.2.1.tgz 0ms (cache 
+hit)
+npm http cache 
+detect-libc@https://registry.npmjs.org/detect-libc/-/detect-libc-2.1.2.tgz 0ms (cache 
+hit)
+npm http cache ms@https://registry.npmjs.org/ms/-/ms-2.0.0.tgz 0ms (cache hit)
+npm http cache debug@https://registry.npmjs.org/debug/-/debug-2.6.9.tgz 0ms (cache hit)
+npm http cache 
+supports-color@https://registry.npmjs.org/supports-color/-/supports-color-8.1.1.tgz 0ms 
+(cache hit)
+npm http cache picomatch@https://registry.npmjs.org/picomatch/-/picomatch-2.3.1.tgz 0ms 
+(cache hit)
+npm http cache statuses@https://registry.npmjs.org/statuses/-/statuses-2.0.2.tgz 0ms 
+(cache hit)
+npm http cache lru-cache@https://registry.npmjs.org/lru-cache/-/lru-cache-10.4.3.tgz 
+0ms (cache hit)
+npm http cache minimatch@https://registry.npmjs.org/minimatch/-/minimatch-10.2.4.tgz 
+0ms (cache hit)
+npm http cache 
+brace-expansion@https://registry.npmjs.org/brace-expansion/-/brace-expansion-5.0.4.tgz 
+0ms (cache hit)
+npm http cache 
+balanced-match@https://registry.npmjs.org/balanced-match/-/balanced-match-4.0.4.tgz 0ms 
+(cache hit)
+npm http cache ms@https://registry.npmjs.org/ms/-/ms-2.0.0.tgz 0ms (cache hit)
+npm http cache debug@https://registry.npmjs.org/debug/-/debug-2.6.9.tgz 0ms (cache hit)
+npm http cache @expo/vector-icons@https://registry.npmjs.org/@expo/vector-icons/-/vector
+-icons-15.1.1.tgz 0ms (cache hit)
+npm http cache source-map@https://registry.npmjs.org/source-map/-/source-map-0.6.1.tgz 
+0ms (cache hit)
+npm http cache ms@https://registry.npmjs.org/ms/-/ms-2.0.0.tgz 0ms (cache hit)
+npm http cache debug@https://registry.npmjs.org/debug/-/debug-2.6.9.tgz 0ms (cache hit)
+npm http cache negotiator@https://registry.npmjs.org/negotiator/-/negotiator-0.6.4.tgz 
+0ms (cache hit)
+npm http cache ms@https://registry.npmjs.org/ms/-/ms-2.0.0.tgz 0ms (cache hit)
+npm http cache debug@https://registry.npmjs.org/debug/-/debug-2.6.9.tgz 0ms (cache hit)
+npm http cache strip-ansi@https://registry.npmjs.org/strip-ansi/-/strip-ansi-6.0.1.tgz 
+0ms (cache hit)
+npm http cache open@https://registry.npmjs.org/open/-/open-8.4.2.tgz 0ms (cache hit)
+npm http cache picomatch@https://registry.npmjs.org/picomatch/-/picomatch-2.3.1.tgz 0ms 
+(cache hit)
+npm http cache type-fest@https://registry.npmjs.org/type-fest/-/type-fest-0.21.3.tgz 
+0ms (cache hit)
+npm http cache react-is@https://registry.npmjs.org/react-is/-/react-is-19.2.4.tgz 0ms 
+(cache hit)
+npm http cache ws@https://registry.npmjs.org/ws/-/ws-6.2.3.tgz 0ms (cache hit)
+npm http cache minimatch@https://registry.npmjs.org/minimatch/-/minimatch-3.1.5.tgz 0ms 
+(cache hit)
+npm http cache glob@https://registry.npmjs.org/glob/-/glob-7.2.3.tgz 0ms (cache hit)
+npm http cache 
+brace-expansion@https://registry.npmjs.org/brace-expansion/-/brace-expansion-1.1.12.tgz 
+0ms (cache hit)
+npm http cache js-yaml@https://registry.npmjs.org/js-yaml/-/js-yaml-3.14.2.tgz 0ms 
+(cache hit)
+npm http cache camelcase@https://registry.npmjs.org/camelcase/-/camelcase-5.3.1.tgz 0ms 
+(cache hit)
+npm http cache argparse@https://registry.npmjs.org/argparse/-/argparse-1.0.10.tgz 0ms 
+(cache hit)
+npm http cache semver@https://registry.npmjs.org/semver/-/semver-7.7.4.tgz 0ms (cache 
+hit)
+npm http cache semver@https://registry.npmjs.org/semver/-/semver-7.7.4.tgz 0ms (cache 
+hit)
+npm http cache semver@https://registry.npmjs.org/semver/-/semver-7.7.4.tgz 0ms (cache 
+hit)
+npm http cache semver@https://registry.npmjs.org/semver/-/semver-7.7.4.tgz 0ms (cache 
+hit)
+npm http cache debug@https://registry.npmjs.org/debug/-/debug-3.2.7.tgz 0ms (cache hit)
+npm http cache semver@https://registry.npmjs.org/semver/-/semver-7.7.4.tgz 0ms (cache 
+hit)
+npm http cache 
+@babel/code-frame@https://registry.npmjs.org/@babel/code-frame/-/code-frame-7.10.4.tgz 
+0ms (cache hit)
+npm http cache ws@https://registry.npmjs.org/ws/-/ws-8.19.0.tgz 0ms (cache hit)
+npm http cache semver@https://registry.npmjs.org/semver/-/semver-7.7.4.tgz 0ms (cache 
+hit)
+npm http cache picomatch@https://registry.npmjs.org/picomatch/-/picomatch-3.0.1.tgz 0ms 
+(cache hit)
+npm http cache 
+supports-color@https://registry.npmjs.org/supports-color/-/supports-color-5.5.0.tgz 0ms 
+(cache hit)
+npm http cache has-flag@https://registry.npmjs.org/has-flag/-/has-flag-3.0.0.tgz 0ms 
+(cache hit)
+npm http cache escape-string-regexp@https://registry.npmjs.org/escape-string-regexp/-/es
+cape-string-regexp-1.0.5.tgz 0ms (cache hit)
+npm http cache color-name@https://registry.npmjs.org/color-name/-/color-name-1.1.3.tgz 
+0ms (cache hit)
+npm http cache 
+color-convert@https://registry.npmjs.org/color-convert/-/color-convert-1.9.3.tgz 1ms 
+(cache hit)
+npm http cache chalk@https://registry.npmjs.org/chalk/-/chalk-2.4.2.tgz 0ms (cache hit)
+npm http cache 
+ansi-styles@https://registry.npmjs.org/ansi-styles/-/ansi-styles-3.2.1.tgz 0ms (cache 
+hit)
+npm http fetch POST 200 https://registry.npmjs.org/-/npm/v1/security/advisories/bulk 
+1670ms
+npm warn deprecated inflight@1.0.6: This module is not supported, and leaks memory. Do 
+not use it. Check out lru-cache if you want a good and tested way to coalesce async 
+requests by a key value, which is much more comprehensive and powerful.
+npm warn deprecated rimraf@3.0.2: Rimraf versions prior to v4 are no longer supported
+npm warn deprecated glob@7.2.3: Old versions of glob are not supported, and contain 
+widely publicized security vulnerabilities, which have been fixed in the current 
+version. Please update. Support for old versions may be purchased (at exorbitant rates) 
+by contacting i@izs.me
+npm warn deprecated glob@7.2.3: Old versions of glob are not supported, and contain 
+widely publicized security vulnerabilities, which have been fixed in the current 
+version. Please update. Support for old versions may be purchased (at exorbitant rates) 
+by contacting i@izs.me
+npm warn deprecated glob@7.2.3: Old versions of glob are not supported, and contain 
+widely publicized security vulnerabilities, which have been fixed in the current 
+version. Please update. Support for old versions may be purchased (at exorbitant rates) 
+by contacting i@izs.me
+npm warn deprecated glob@7.2.3: Old versions of glob are not supported, and contain 
+widely publicized security vulnerabilities, which have been fixed in the current 
+version. Please update. Support for old versions may be purchased (at exorbitant rates) 
+by contacting i@izs.me
+npm http fetch GET 200 
+https://registry.npmjs.org/react-devtools-core/-/react-devtools-core-6.1.5.tgz 123653ms 
+(cache miss)
